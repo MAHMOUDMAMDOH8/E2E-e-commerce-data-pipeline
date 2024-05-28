@@ -34,8 +34,8 @@ def database_preparation():
     try:
         db_credentials = load_credentials()
         logging.info('database_preparation started')
-        drop_tables()
-        create_tables()
+        drop_tables(**db_credentials)
+        create_tables(**db_credentials)
         logging.info('database_preparation done')
     except Exception as e:
         logging.error("Error in database_preparation", exc_info=True)
@@ -52,10 +52,10 @@ def data_delivery():
     try:
         db_credentials = load_credentials()
         logging.info('data_delivery started')
-        load_customer_dim()
-        load_store_dim()
-        load_product_dim()
-        load_sales_fact()
+        load_customer_dim(**db_credentials)
+        load_store_dim(**db_credentials)
+        load_product_dim(**db_credentials)
+        load_sales_fact(**db_credentials)
         logging.info('data_delivery done')
     except Exception as e:
         logging.error("Error in data_delivery", exc_info=True)
