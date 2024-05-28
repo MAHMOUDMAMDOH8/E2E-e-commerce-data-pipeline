@@ -4,7 +4,6 @@ from airflow.utils.dates import days_ago
 from scripts.Load_data import (drop_tables, create_tables, load_customer_dim, load_store_dim, load_product_dim, load_sales_fact)
 from scripts.transform_data import process_Ecommrese_data
 import logging
-from airflow.models import Variable
 
 default_args = {
     'owner': 'Mahmoud Mamdoh',
@@ -24,15 +23,11 @@ dag = DAG(
 )
 
 def load_credentials():
-    host = Variable.get("host")
-    db_name = Variable.get("database")
-    user = Variable.get("user")
-    password = Variable.get("password")
     return {
-        "host": host,
-        "db_name": db_name,
-        "user": user,
-        "password": password,
+        "host": '172.19.0.3',
+        "database": 'sales_db',
+        "user": 'airflow',
+        "password": 'airflow'
     }
 
 def database_preparation():

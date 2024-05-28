@@ -10,19 +10,13 @@ logging.basicConfig(
 )
 
 
-def load_db_credentials(host,db_name,user,password):
-    try:
-        connection = psycopg2.connect(
-            host=host,
-            database=db_name,
-            user=user,
-            password=password
-        )
-        logging.info("Connected to PostgreSQL database successfully")
-        return connection
-    except (Exception, Error) as error:
-        logging.error("Error while connecting to PostgreSQL: %s", error)
-        return None
+def load_db_credentials():
+    return {
+        "host": "172.19.0.3",
+        "database": 'sales_db',
+        "user": 'airflow',
+        "password": 'airflow'
+    }
 
 def create_connection():
     try:
