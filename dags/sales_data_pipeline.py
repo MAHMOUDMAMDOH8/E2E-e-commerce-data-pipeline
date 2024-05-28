@@ -24,8 +24,8 @@ dag = DAG(
 
 def load_credentials():
     return {
-        "host": '172.19.0.3',
-        "database": 'sales_db',
+        "host": "172.19.0.3",
+        "db_name": 'sales_db',
         "user": 'airflow',
         "password": 'airflow'
     }

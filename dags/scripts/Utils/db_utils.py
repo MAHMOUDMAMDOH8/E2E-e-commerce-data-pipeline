@@ -1,7 +1,7 @@
-import logging
 from dotenv import load_dotenv
 import psycopg2
 import os
+import logging
 from psycopg2 import Error
 
 logging.basicConfig(
@@ -9,8 +9,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-
-def load_db_credentials(host,db_name,user,password):
+def create_connection(host,db_name,user,password):
     try:
         connection = psycopg2.connect(
             host=host,
@@ -24,27 +23,12 @@ def load_db_credentials(host,db_name,user,password):
         logging.error("Error while connecting to PostgreSQL: %s", error)
         return None
 
-def create_connection():
-    try:
-        db_credentials = load_db_credentials()
-        connection = psycopg2.connect(
-            host=db_credentials["host"],
-            database=db_credentials["database"],
-            user=db_credentials["user"],
-            password=db_credentials["password"]
-        )
-        logging.info("Connected to PostgreSQL database successfully")
-        return connection
-    except (Exception, Error) as error:
-        logging.error("Error while connecting to PostgreSQL: %s", error)
-        return None
-
 def close_connection(connection):
     if connection:
         connection.close()
         logging.info("PostgreSQL connection is closed")
 
-def execute_query(connection, query, table_name):
+def execute_query(connection,query,table_name):
     try:
         cursor = connection.cursor()
         cursor.execute(query)

@@ -3,7 +3,7 @@ from scripts.Utils.db_utils import *
 
 logging.basicConfig(filename='tables_creation.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def create_tables():
+def create_tables(host,db_name,user,password):
 
     logging.info('create tables ..... ')
     queries =[
@@ -12,7 +12,7 @@ def create_tables():
         (CREATE_STORE_TABLE_SQL, 'STORE'),
         (CREATE_FACTSALES_TABLE_SQL, 'FACTSALES')
     ]
-    conn = create_connection()
+    conn = create_connection(host,db_name,user,password)
     if conn:
         cursor = conn.cursor()
         for query,table in queries:
@@ -22,7 +22,7 @@ def create_tables():
                 logging.error(f'Failed to create table {table}')
     else:
         logging.error('Failed to establish a connection to the database')
-def drop_tables():
+def drop_tables(host,db_name,user,password):
 
     logging.info('Dropping tables...')
     queries = [
@@ -31,7 +31,7 @@ def drop_tables():
         (drop_STORE_TABLE_SQL, 'STORE'),
         (drop_FACTSALES_TABLE_SQL, 'FACTSALES')
     ]
-    conn = create_connection()
+    conn = create_connection(host,db_name,user,password)
     if conn:
         cursor = conn.cursor()
         for query, table_name in queries:
@@ -42,10 +42,10 @@ def drop_tables():
         close_connection(conn)
     else:
         logging.error('Failed to establish a connection to the database')
-def load_data_to_postgres(table_name, data_frame):
+def load_data_to_postgres(table_name, data_frame,host,db_name,user,password):
 
     logging.info(f'Loading data into table {table_name}...')
-    conn = create_connection()
+    conn = create_connection(host,db_name,user,password)
     if conn:
         cursor = conn.cursor()
         cursor.execute(f"TRUNCATE TABLE {table_name} RESTART IDENTITY;")
