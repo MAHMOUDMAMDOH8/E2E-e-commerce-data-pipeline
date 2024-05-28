@@ -1,0 +1,53 @@
+[2024-05-28T19:20:13.870+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-28T19:20:13.891+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T19:19:56.034037+00:00 [queued]>
+[2024-05-28T19:20:13.900+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T19:19:56.034037+00:00 [queued]>
+[2024-05-28T19:20:13.900+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-05-28T19:20:13.913+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): data_delivery> on 2024-05-28 19:19:56.034037+00:00
+[2024-05-28T19:20:13.922+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=84) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-05-28T19:20:13.923+0000] {standard_task_runner.py:63} INFO - Started process 86 to run task
+[2024-05-28T19:20:13.924+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'sales_pipeline', 'data_delivery', 'manual__2024-05-28T19:19:56.034037+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/sales_data_pipeline.py', '--cfg-path', '/tmp/tmpl6nu5_1d']
+[2024-05-28T19:20:13.927+0000] {standard_task_runner.py:91} INFO - Job 13: Subtask data_delivery
+[2024-05-28T19:20:13.938+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/settings.py:195: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2024-05-28T19:20:13.970+0000] {task_command.py:426} INFO - Running <TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T19:19:56.034037+00:00 [running]> on host 90e12a9d37bb
+[2024-05-28T19:20:14.057+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Mahmoud Mamdoh' AIRFLOW_CTX_DAG_ID='sales_pipeline' AIRFLOW_CTX_TASK_ID='data_delivery' AIRFLOW_CTX_EXECUTION_DATE='2024-05-28T19:19:56.034037+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-28T19:19:56.034037+00:00'
+[2024-05-28T19:20:14.058+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-28T19:20:14.073+0000] {sales_data_pipeline.py:54} INFO - data_delivery started
+[2024-05-28T19:20:14.073+0000] {Load_data.py:10} INFO - Loading customer_df dimension...
+[2024-05-28T19:20:14.109+0000] {tables_creation.py:47} INFO - Loading data into table DIM_CUSTOMERS...
+[2024-05-28T19:20:14.113+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T19:20:14.114+0000] {Load_data.py:19} ERROR - Error loading users dimension: cannot truncate a table referenced in a foreign key constraint
+DETAIL:  Table "fact_sales" references "dim_customers".
+HINT:  Truncate table "fact_sales" at the same time, or use TRUNCATE ... CASCADE.
+
+[2024-05-28T19:20:14.116+0000] {Load_data.py:23} INFO - Loading customer dimension...
+[2024-05-28T19:20:14.147+0000] {tables_creation.py:47} INFO - Loading data into table DIM_STORE...
+[2024-05-28T19:20:14.151+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T19:20:14.152+0000] {Load_data.py:29} ERROR - Error loading users dimension: cannot truncate a table referenced in a foreign key constraint
+DETAIL:  Table "fact_sales" references "dim_store".
+HINT:  Truncate table "fact_sales" at the same time, or use TRUNCATE ... CASCADE.
+
+[2024-05-28T19:20:14.153+0000] {Load_data.py:33} INFO - Loading customer dimension...
+[2024-05-28T19:20:14.210+0000] {tables_creation.py:47} INFO - Loading data into table DIM_PRODUCT...
+[2024-05-28T19:20:14.213+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T19:20:14.214+0000] {Load_data.py:42} ERROR - Error loading users dimension: cannot truncate a table referenced in a foreign key constraint
+DETAIL:  Table "fact_sales" references "dim_product".
+HINT:  Truncate table "fact_sales" at the same time, or use TRUNCATE ... CASCADE.
+
+[2024-05-28T19:20:14.216+0000] {Load_data.py:46} INFO - Loading fact sales ...
+[2024-05-28T19:20:14.317+0000] {tables_creation.py:47} INFO - Loading data into table FACT_SALES...
+[2024-05-28T19:20:14.320+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T19:20:14.346+0000] {Load_data.py:52} ERROR - Error loading sales fact: syntax error at or near "Order"
+LINE 1: INSERT INTO FACT_SALES (order_id, order_detail, Order Date, ...
+                                                        ^
+
+[2024-05-28T19:20:14.354+0000] {sales_data_pipeline.py:59} INFO - data_delivery done
+[2024-05-28T19:20:14.355+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-28T19:20:14.355+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-28T19:20:14.367+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=sales_pipeline, task_id=data_delivery, run_id=manual__2024-05-28T19:19:56.034037+00:00, execution_date=20240528T191956, start_date=20240528T192013, end_date=20240528T192014
+[2024-05-28T19:20:14.417+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-28T19:20:14.435+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-28T19:20:14.436+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

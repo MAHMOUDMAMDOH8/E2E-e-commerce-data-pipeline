@@ -1,0 +1,29 @@
+[2024-05-28T17:25:44.573+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-28T17:25:44.594+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T17:22:51.794798+00:00 [queued]>
+[2024-05-28T17:25:44.601+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T17:22:51.794798+00:00 [queued]>
+[2024-05-28T17:25:44.602+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-05-28T17:25:44.613+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): data_delivery> on 2024-05-28 17:22:51.794798+00:00
+[2024-05-28T17:25:44.622+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=66) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-05-28T17:25:44.623+0000] {standard_task_runner.py:63} INFO - Started process 68 to run task
+[2024-05-28T17:25:44.623+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'sales_pipeline', 'data_delivery', 'manual__2024-05-28T17:22:51.794798+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/sales_data_pipeline.py', '--cfg-path', '/tmp/tmp8vcoa011']
+[2024-05-28T17:25:44.626+0000] {standard_task_runner.py:91} INFO - Job 11: Subtask data_delivery
+[2024-05-28T17:25:44.635+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/settings.py:195: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2024-05-28T17:25:44.666+0000] {task_command.py:426} INFO - Running <TaskInstance: sales_pipeline.data_delivery manual__2024-05-28T17:22:51.794798+00:00 [running]> on host 03b4db1c7961
+[2024-05-28T17:25:44.752+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Mahmoud Mamdoh' AIRFLOW_CTX_DAG_ID='sales_pipeline' AIRFLOW_CTX_TASK_ID='data_delivery' AIRFLOW_CTX_EXECUTION_DATE='2024-05-28T17:22:51.794798+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-28T17:22:51.794798+00:00'
+[2024-05-28T17:25:44.753+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-28T17:25:44.765+0000] {sales_data_pipeline.py:54} INFO - data_delivery started
+[2024-05-28T17:25:44.766+0000] {sales_data_pipeline.py:61} ERROR - Error in data_delivery
+Traceback (most recent call last):
+  File "/opt/airflow/dags/sales_data_pipeline.py", line 55, in data_delivery
+    load_customer_dim(**db_credentials)
+TypeError: load_customer_dim() got an unexpected keyword argument 'host'
+[2024-05-28T17:25:44.766+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-28T17:25:44.767+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-28T17:25:44.775+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=sales_pipeline, task_id=data_delivery, run_id=manual__2024-05-28T17:22:51.794798+00:00, execution_date=20240528T172251, start_date=20240528T172544, end_date=20240528T172544
+[2024-05-28T17:25:44.796+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-28T17:25:44.811+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-28T17:25:44.813+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,48 @@
+[2024-05-28T17:54:25.448+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-28T17:54:25.469+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sales_pipeline.data_extraction manual__2024-05-28T17:54:21.853763+00:00 [queued]>
+[2024-05-28T17:54:25.476+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sales_pipeline.data_extraction manual__2024-05-28T17:54:21.853763+00:00 [queued]>
+[2024-05-28T17:54:25.477+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-05-28T17:54:25.491+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): data_extraction> on 2024-05-28 17:54:21.853763+00:00
+[2024-05-28T17:54:25.501+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=63) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-05-28T17:54:25.502+0000] {standard_task_runner.py:63} INFO - Started process 65 to run task
+[2024-05-28T17:54:25.502+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'sales_pipeline', 'data_extraction', 'manual__2024-05-28T17:54:21.853763+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/sales_data_pipeline.py', '--cfg-path', '/tmp/tmplcj__e1h']
+[2024-05-28T17:54:25.504+0000] {standard_task_runner.py:91} INFO - Job 30: Subtask data_extraction
+[2024-05-28T17:54:25.515+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/settings.py:195: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2024-05-28T17:54:25.544+0000] {task_command.py:426} INFO - Running <TaskInstance: sales_pipeline.data_extraction manual__2024-05-28T17:54:21.853763+00:00 [running]> on host 45d37e3c5811
+[2024-05-28T17:54:25.643+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Mahmoud Mamdoh' AIRFLOW_CTX_DAG_ID='sales_pipeline' AIRFLOW_CTX_TASK_ID='data_extraction' AIRFLOW_CTX_EXECUTION_DATE='2024-05-28T17:54:21.853763+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-28T17:54:21.853763+00:00'
+[2024-05-28T17:54:25.644+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-28T17:54:25.656+0000] {sales_data_pipeline.py:45} INFO - data_extraction started
+[2024-05-28T17:54:35.832+0000] {sales_data_pipeline.py:49} ERROR - Error in data_extraction
+Traceback (most recent call last):
+  File "/opt/airflow/dags/sales_data_pipeline.py", line 46, in data_extraction
+    process_Ecommrese_data()
+  File "/opt/airflow/dags/scripts/transform_data.py", line 24, in process_Ecommrese_data
+    store.to_csv('./datalake/silver/DIM_store.csv', index=False)
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/core/generic.py", line 3720, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/io/formats/format.py", line 1189, in to_csv
+    csv_formatter.save()
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/io/formats/csvs.py", line 241, in save
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pandas/io/common.py", line 856, in get_handle
+    handle = open(
+             ^^^^^
+PermissionError: [Errno 13] Permission denied: './datalake/silver/DIM_store.csv'
+[2024-05-28T17:54:35.839+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-28T17:54:35.840+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-28T17:54:35.868+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=sales_pipeline, task_id=data_extraction, run_id=manual__2024-05-28T17:54:21.853763+00:00, execution_date=20240528T175421, start_date=20240528T175425, end_date=20240528T175435
+[2024-05-28T17:54:35.925+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-28T17:54:35.943+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-05-28T17:54:35.945+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

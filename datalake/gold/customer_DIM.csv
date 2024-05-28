@@ -1,0 +1,1591 @@
+customer_id,name,segment,start_date,end_date,is_current
+RH-19495,Rick Hansen,Consumer,2024-05-28,2024-12-31,True
+JR-16210,Justin Ritter,Corporate,2024-05-28,2024-12-31,True
+CR-12730,Craig Reiter,Consumer,2024-05-28,2024-12-31,True
+KM-16375,Katherine Murray,Home Office,2024-05-28,2024-12-31,True
+RH-9495,Rick Hansen,Consumer,2024-05-28,2024-12-31,True
+JM-15655,Jim Mitchum,Corporate,2024-05-28,2024-12-31,True
+TS-21340,Toby Swindell,Consumer,2024-05-28,2024-12-31,True
+MB-18085,Mick Brown,Consumer,2024-05-28,2024-12-31,True
+JW-15220,Jane Waco,Corporate,2024-05-28,2024-12-31,True
+JH-15985,Joseph Holt,Consumer,2024-05-28,2024-12-31,True
+GM-14695,Greg Maxwell,Corporate,2024-05-28,2024-12-31,True
+AJ-10780,Anthony Jacobs,Corporate,2024-05-28,2024-12-31,True
+MM-7260,Magdelene Morse,Consumer,2024-05-28,2024-12-31,True
+VF-21715,Vicky Freymann,Home Office,2024-05-28,2024-12-31,True
+PF-19120,Peter Fuller,Consumer,2024-05-28,2024-12-31,True
+BP-11185,Ben Peterman,Corporate,2024-05-28,2024-12-31,True
+TB-21175,Thomas Boland,Corporate,2024-05-28,2024-12-31,True
+PJ-18835,Patrick Jones,Corporate,2024-05-28,2024-12-31,True
+JS-15685,Jim Sink,Corporate,2024-05-28,2024-12-31,True
+RH-9555,Ritsa Hightower,Consumer,2024-05-28,2024-12-31,True
+AB-600,Ann Blume,Corporate,2024-05-28,2024-12-31,True
+SA-20830,Sue Ann Reed,Consumer,2024-05-28,2024-12-31,True
+JK-15325,Jason Klamczynski,Corporate,2024-05-28,2024-12-31,True
+LB-16795,Laurel Beltran,Home Office,2024-05-28,2024-12-31,True
+NP-18325,Naresj Patel,Consumer,2024-05-28,2024-12-31,True
+VD-21670,Valerie Dominguez,Consumer,2024-05-28,2024-12-31,True
+PB-19210,Phillip Breyer,Corporate,2024-05-28,2024-12-31,True
+EB-14110,Eugene Barchas,Consumer,2024-05-28,2024-12-31,True
+KF-16285,Karen Ferguson,Home Office,2024-05-28,2024-12-31,True
+BP-11230,Benjamin Patterson,Consumer,2024-05-28,2024-12-31,True
+RR-19525,Rick Reed,Corporate,2024-05-28,2024-12-31,True
+BS-11365,Bill Shonely,Corporate,2024-05-28,2024-12-31,True
+JE-15745,Joel Eaton,Consumer,2024-05-28,2024-12-31,True
+DP-13105,Dave Poirier,Corporate,2024-05-28,2024-12-31,True
+NP-18700,Nora Preis,Consumer,2024-05-28,2024-12-31,True
+AH-30,Aaron Hawkins,Corporate,2024-05-28,2024-12-31,True
+DM-13015,Darrin Martin,Consumer,2024-05-28,2024-12-31,True
+GT-14635,Grant Thornton,Corporate,2024-05-28,2024-12-31,True
+PO-18865,Patrick O'Donnell,Consumer,2024-05-28,2024-12-31,True
+DL-12865,Dan Lawera,Consumer,2024-05-28,2024-12-31,True
+JB-16000,Joy Bell-,Consumer,2024-05-28,2024-12-31,True
+BF-11005,Barry Franz,Home Office,2024-05-28,2024-12-31,True
+VG-21805,Vivek Grady,Corporate,2024-05-28,2024-12-31,True
+GT-14710,Greg Tran,Consumer,2024-05-28,2024-12-31,True
+ZC-21910,Zuschuss Carroll,Consumer,2024-05-28,2024-12-31,True
+SC-20095,Sanjit Chand,Consumer,2024-05-28,2024-12-31,True
+EB-13840,Ellis Ballard,Corporate,2024-05-28,2024-12-31,True
+AP-10915,Arthur Prichep,Consumer,2024-05-28,2024-12-31,True
+SW-20275,Scott Williamson,Consumer,2024-05-28,2024-12-31,True
+JH-15820,John Huston,Consumer,2024-05-28,2024-12-31,True
+LC-16885,Lena Creighton,Consumer,2024-05-28,2024-12-31,True
+TG-11640,Trudy Glocke,Consumer,2024-05-28,2024-12-31,True
+HR-14830,Harold Ryan,Corporate,2024-05-28,2024-12-31,True
+DG-3300,Deirdre Greer,Corporate,2024-05-28,2024-12-31,True
+SG-20470,Sheri Gordon,Consumer,2024-05-28,2024-12-31,True
+FH-14365,Fred Hopkins,Corporate,2024-05-28,2024-12-31,True
+GP-14740,Guy Phonely,Corporate,2024-05-28,2024-12-31,True
+MW-18220,Mitch Webber,Consumer,2024-05-28,2024-12-31,True
+PO-18850,Patrick O'Brill,Consumer,2024-05-28,2024-12-31,True
+CS-12460,Chuck Sachs,Consumer,2024-05-28,2024-12-31,True
+KD-16495,Keith Dawkins,Corporate,2024-05-28,2024-12-31,True
+MS-17980,Michael Stewart,Corporate,2024-05-28,2024-12-31,True
+KC-16675,Kimberly Carter,Corporate,2024-05-28,2024-12-31,True
+DB-13405,Denny Blanton,Consumer,2024-05-28,2024-12-31,True
+JD-15895,Jonathan Doherty,Corporate,2024-05-28,2024-12-31,True
+DK-13090,Dave Kipp,Consumer,2024-05-28,2024-12-31,True
+CS-11845,Cari Sayre,Corporate,2024-05-28,2024-12-31,True
+EM-14200,Evan Minnotte,Home Office,2024-05-28,2024-12-31,True
+DW-3480,Dianna Wilson,Home Office,2024-05-28,2024-12-31,True
+AS-10225,Alan Schoenberger,Corporate,2024-05-28,2024-12-31,True
+ST-20530,Shui Tom,Consumer,2024-05-28,2024-12-31,True
+BW-1065,Barry Weirich,Consumer,2024-05-28,2024-12-31,True
+LA-16780,Laura Armstrong,Corporate,2024-05-28,2024-12-31,True
+AB-10150,Aimee Bixby,Consumer,2024-05-28,2024-12-31,True
+CM-12385,Christopher Martinez,Consumer,2024-05-28,2024-12-31,True
+BE-11410,Bobby Elias,Consumer,2024-05-28,2024-12-31,True
+SZ-20035,Sam Zeldin,Home Office,2024-05-28,2024-12-31,True
+RM-19375,Raymond Messe,Consumer,2024-05-28,2024-12-31,True
+HG-14845,Harry Greene,Consumer,2024-05-28,2024-12-31,True
+DP-3105,Dave Poirier,Corporate,2024-05-28,2024-12-31,True
+AR-10540,Andy Reiter,Consumer,2024-05-28,2024-12-31,True
+TP-21415,Tom Prescott,Consumer,2024-05-28,2024-12-31,True
+AM-10705,Anne McFarland,Consumer,2024-05-28,2024-12-31,True
+AB-255,Alejandro Ballentine,Home Office,2024-05-28,2024-12-31,True
+RP-19270,Rachel Payne,Corporate,2024-05-28,2024-12-31,True
+BK-11260,Berenike Kampe,Consumer,2024-05-28,2024-12-31,True
+JM-15250,Janet Martin,Consumer,2024-05-28,2024-12-31,True
+LW-16990,Lindsay Williams,Corporate,2024-05-28,2024-12-31,True
+NZ-18565,Nick Zandusky,Home Office,2024-05-28,2024-12-31,True
+SV-10815,Stuart Van,Corporate,2024-05-28,2024-12-31,True
+SC-20695,Steve Chapman,Corporate,2024-05-28,2024-12-31,True
+NC-18625,Noah Childs,Corporate,2024-05-28,2024-12-31,True
+NF-18385,Natalie Fritzler,Consumer,2024-05-28,2024-12-31,True
+PM-18940,Paul MacIntyre,Consumer,2024-05-28,2024-12-31,True
+MZ-17335,Maria Zettner,Home Office,2024-05-28,2024-12-31,True
+HM-4980,Henry MacAllister,Consumer,2024-05-28,2024-12-31,True
+RW-19540,Rick Wilson,Corporate,2024-05-28,2024-12-31,True
+LH-17155,Logan Haushalter,Consumer,2024-05-28,2024-12-31,True
+KM-16660,Khloe Miller,Consumer,2024-05-28,2024-12-31,True
+AB-10060,Adam Bellavance,Home Office,2024-05-28,2024-12-31,True
+DB-13060,Dave Brooks,Consumer,2024-05-28,2024-12-31,True
+VM-21685,Valerie Mitchum,Home Office,2024-05-28,2024-12-31,True
+DM-13525,Don Miller,Corporate,2024-05-28,2024-12-31,True
+NM-18520,Neoma Murray,Consumer,2024-05-28,2024-12-31,True
+RO-19780,Rose O'Brian,Consumer,2024-05-28,2024-12-31,True
+SB-20185,Sarah Brown,Consumer,2024-05-28,2024-12-31,True
+EM-14065,Erin Mull,Consumer,2024-05-28,2024-12-31,True
+RS-19765,Roland Schwarz,Corporate,2024-05-28,2024-12-31,True
+ON-18715,Odella Nelson,Corporate,2024-05-28,2024-12-31,True
+VS-21820,Vivek Sundaresam,Consumer,2024-05-28,2024-12-31,True
+CM-12115,Chad McGuire,Consumer,2024-05-28,2024-12-31,True
+TB-21400,Tom Boeckenhauer,Consumer,2024-05-28,2024-12-31,True
+AB-10105,Adrian Barton,Consumer,2024-05-28,2024-12-31,True
+DW-13540,Don Weiss,Consumer,2024-05-28,2024-12-31,True
+PS-19045,Penelope Sewall,Home Office,2024-05-28,2024-12-31,True
+CC-12370,Christopher Conant,Consumer,2024-05-28,2024-12-31,True
+TC-21295,Toby Carlisle,Consumer,2024-05-28,2024-12-31,True
+GM-14440,Gary McGarr,Consumer,2024-05-28,2024-12-31,True
+SV-20815,Stuart Van,Corporate,2024-05-28,2024-12-31,True
+MM-17920,Michael Moore,Consumer,2024-05-28,2024-12-31,True
+JK-16120,Julie Kriz,Home Office,2024-05-28,2024-12-31,True
+DJ-13510,Don Jones,Corporate,2024-05-28,2024-12-31,True
+AT-10435,Alyssa Tate,Home Office,2024-05-28,2024-12-31,True
+AB-10015,Aaron Bergman,Consumer,2024-05-28,2024-12-31,True
+RP-19390,Resi Pölking,Consumer,2024-05-28,2024-12-31,True
+MJ-17740,Max Jones,Consumer,2024-05-28,2024-12-31,True
+PV-18985,Paul Van Hugh,Home Office,2024-05-28,2024-12-31,True
+SB-20290,Sean Braxton,Corporate,2024-05-28,2024-12-31,True
+SM-10005,Sally Matthias,Consumer,2024-05-28,2024-12-31,True
+KH-16330,Katharine Harms,Corporate,2024-05-28,2024-12-31,True
+MP-18175,Mike Pelletier,Home Office,2024-05-28,2024-12-31,True
+LH-17020,Lisa Hazard,Consumer,2024-05-28,2024-12-31,True
+ND-18370,Natalie DeCherney,Consumer,2024-05-28,2024-12-31,True
+CR-12625,Corey Roper,Home Office,2024-05-28,2024-12-31,True
+GM-14680,Greg Matthias,Consumer,2024-05-28,2024-12-31,True
+RA-19945,Ryan Akin,Consumer,2024-05-28,2024-12-31,True
+BW-11110,Bart Watters,Corporate,2024-05-28,2024-12-31,True
+RF-19735,Roland Fjeld,Consumer,2024-05-28,2024-12-31,True
+AG-10675,Anna Gayman,Consumer,2024-05-28,2024-12-31,True
+DM-12955,Dario Medina,Corporate,2024-05-28,2024-12-31,True
+KD-16270,Karen Daniels,Consumer,2024-05-28,2024-12-31,True
+BE-11335,Bill Eplett,Home Office,2024-05-28,2024-12-31,True
+SO-20335,Sean O'Donnell,Consumer,2024-05-28,2024-12-31,True
+DK-12835,Damala Kotsonis,Corporate,2024-05-28,2024-12-31,True
+LC-7050,Liz Carlisle,Consumer,2024-05-28,2024-12-31,True
+CG-12520,Claire Gute,Consumer,2024-05-28,2024-12-31,True
+TB-21280,Toby Braunhardt,Consumer,2024-05-28,2024-12-31,True
+HG-15025,Hunter Glantz,Consumer,2024-05-28,2024-12-31,True
+AD-10180,Alan Dominguez,Home Office,2024-05-28,2024-12-31,True
+BP-11155,Becky Pak,Consumer,2024-05-28,2024-12-31,True
+AA-10480,Andrew Allen,Consumer,2024-05-28,2024-12-31,True
+RL-19615,Rob Lucas,Consumer,2024-05-28,2024-12-31,True
+CS-12505,Cindy Stewart,Consumer,2024-05-28,2024-12-31,True
+SW-20245,Scot Wooten,Consumer,2024-05-28,2024-12-31,True
+TA-21385,Tom Ashbrook,Home Office,2024-05-28,2024-12-31,True
+YC-21895,Yoseph Carroll,Corporate,2024-05-28,2024-12-31,True
+JM-15580,Jill Matthias,Consumer,2024-05-28,2024-12-31,True
+MZ-7335,Maria Zettner,Home Office,2024-05-28,2024-12-31,True
+JF-15295,Jason Fortune-,Consumer,2024-05-28,2024-12-31,True
+JL-15835,John Lee,Consumer,2024-05-28,2024-12-31,True
+DJ-3510,Don Jones,Corporate,2024-05-28,2024-12-31,True
+MF-18250,Monica Federle,Corporate,2024-05-28,2024-12-31,True
+JE-15610,Jim Epp,Corporate,2024-05-28,2024-12-31,True
+CP-12340,Christine Phan,Corporate,2024-05-28,2024-12-31,True
+EH-14125,Eugene Hildebrand,Home Office,2024-05-28,2024-12-31,True
+NC-18340,Nat Carroll,Consumer,2024-05-28,2024-12-31,True
+JS-16030,Joy Smith,Consumer,2024-05-28,2024-12-31,True
+AM-10360,Alice McCarthy,Corporate,2024-05-28,2024-12-31,True
+JF-15190,Jamie Frazer,Consumer,2024-05-28,2024-12-31,True
+JG-15160,James Galang,Consumer,2024-05-28,2024-12-31,True
+DP-13390,Dennis Pardue,Home Office,2024-05-28,2024-12-31,True
+AG-10330,Alex Grayson,Consumer,2024-05-28,2024-12-31,True
+GK-14620,Grace Kelly,Corporate,2024-05-28,2024-12-31,True
+NF-18475,Neil Französisch,Home Office,2024-05-28,2024-12-31,True
+DR-12940,Daniel Raglin,Home Office,2024-05-28,2024-12-31,True
+NB-18655,Nona Balk,Corporate,2024-05-28,2024-12-31,True
+NM-18445,Nathan Mautz,Home Office,2024-05-28,2024-12-31,True
+NP-18670,Nora Paige,Consumer,2024-05-28,2024-12-31,True
+SC-20380,Shahid Collister,Consumer,2024-05-28,2024-12-31,True
+PA-9060,Pete Armstrong,Home Office,2024-05-28,2024-12-31,True
+RB-19570,Rob Beeghly,Consumer,2024-05-28,2024-12-31,True
+SR-20740,Steven Roelle,Home Office,2024-05-28,2024-12-31,True
+RH-19510,Rick Huthwaite,Home Office,2024-05-28,2024-12-31,True
+LH-16750,Larry Hughes,Consumer,2024-05-28,2024-12-31,True
+KB-16585,Ken Black,Corporate,2024-05-28,2024-12-31,True
+EM-13810,Eleni McCrary,Corporate,2024-05-28,2024-12-31,True
+MZ-7515,Mary Zewe,Corporate,2024-05-28,2024-12-31,True
+DM-13345,Denise Monton,Corporate,2024-05-28,2024-12-31,True
+CA-11965,Carol Adams,Corporate,2024-05-28,2024-12-31,True
+SC-20305,Sean Christensen,Consumer,2024-05-28,2024-12-31,True
+MH-18115,Mick Hernandez,Home Office,2024-05-28,2024-12-31,True
+KS-16300,Karen Seio,Corporate,2024-05-28,2024-12-31,True
+BG-11740,Bruce Geld,Consumer,2024-05-28,2024-12-31,True
+CR-2625,Corey Roper,Home Office,2024-05-28,2024-12-31,True
+CB-12415,Christy Brittain,Consumer,2024-05-28,2024-12-31,True
+AP-10720,Anne Pryor,Home Office,2024-05-28,2024-12-31,True
+CR-12820,Cyra Reiten,Home Office,2024-05-28,2024-12-31,True
+BF-11080,Bart Folk,Consumer,2024-05-28,2024-12-31,True
+JM-15265,Janet Molinari,Corporate,2024-05-28,2024-12-31,True
+TW-21025,Tamara Willingham,Home Office,2024-05-28,2024-12-31,True
+RB-19330,Randy Bradley,Consumer,2024-05-28,2024-12-31,True
+JA-15970,Joseph Airdo,Consumer,2024-05-28,2024-12-31,True
+AB-60,Adam Bellavance,Home Office,2024-05-28,2024-12-31,True
+JR-5670,Jim Radford,Consumer,2024-05-28,2024-12-31,True
+MD-17350,Maribeth Dona,Consumer,2024-05-28,2024-12-31,True
+PK-19075,Pete Kriz,Consumer,2024-05-28,2024-12-31,True
+TP-21130,Theone Pippenger,Consumer,2024-05-28,2024-12-31,True
+JK-15640,Jim Kriz,Home Office,2024-05-28,2024-12-31,True
+CD-11920,Carlos Daly,Consumer,2024-05-28,2024-12-31,True
+JL-5835,John Lee,Consumer,2024-05-28,2024-12-31,True
+EP-13915,Emily Phan,Consumer,2024-05-28,2024-12-31,True
+MS-17770,Maxwell Schwartz,Consumer,2024-05-28,2024-12-31,True
+CM-12655,Corinna Mitchell,Home Office,2024-05-28,2024-12-31,True
+JC-6105,Julie Creighton,Corporate,2024-05-28,2024-12-31,True
+GB-14530,George Bell,Corporate,2024-05-28,2024-12-31,True
+JH-16180,Justin Hirsh,Consumer,2024-05-28,2024-12-31,True
+MT-8070,Michelle Tran,Home Office,2024-05-28,2024-12-31,True
+CV-2805,Cynthia Voltz,Corporate,2024-05-28,2024-12-31,True
+NH-18610,Nicole Hansen,Corporate,2024-05-28,2024-12-31,True
+HJ-14875,Heather Jas,Home Office,2024-05-28,2024-12-31,True
+JL-15175,James Lanier,Home Office,2024-05-28,2024-12-31,True
+MY-18295,Muhammed Yedwab,Corporate,2024-05-28,2024-12-31,True
+MW-18235,Mitch Willingham,Corporate,2024-05-28,2024-12-31,True
+KC-16540,Kelly Collister,Consumer,2024-05-28,2024-12-31,True
+HA-14920,Helen Andreada,Consumer,2024-05-28,2024-12-31,True
+MT-17815,Meg Tillman,Consumer,2024-05-28,2024-12-31,True
+FW-14395,Fred Wasserman,Corporate,2024-05-28,2024-12-31,True
+BH-11710,Brosina Hoffman,Consumer,2024-05-28,2024-12-31,True
+DK-12895,Dana Kaydos,Consumer,2024-05-28,2024-12-31,True
+SC-20845,Sung Chung,Consumer,2024-05-28,2024-12-31,True
+CY-12745,Craig Yedwab,Corporate,2024-05-28,2024-12-31,True
+HL-15040,Hunter Lopez,Consumer,2024-05-28,2024-12-31,True
+CT-11995,Carol Triggs,Consumer,2024-05-28,2024-12-31,True
+GR-4560,Georgia Rosenberg,Corporate,2024-05-28,2024-12-31,True
+TT-21070,Ted Trevino,Consumer,2024-05-28,2024-12-31,True
+PO-19195,Phillina Ober,Home Office,2024-05-28,2024-12-31,True
+ED-13885,Emily Ducich,Home Office,2024-05-28,2024-12-31,True
+TM-21490,Tony Molinari,Consumer,2024-05-28,2024-12-31,True
+AW-10840,Anthony Witt,Consumer,2024-05-28,2024-12-31,True
+AT-10735,Annie Thurman,Consumer,2024-05-28,2024-12-31,True
+SG-10605,Speros Goranitis,Consumer,2024-05-28,2024-12-31,True
+BM-11785,Bryan Mills,Consumer,2024-05-28,2024-12-31,True
+DK-13375,Dennis Kane,Consumer,2024-05-28,2024-12-31,True
+PF-19225,Phillip Flathmann,Consumer,2024-05-28,2024-12-31,True
+TG-21310,Toby Gnade,Consumer,2024-05-28,2024-12-31,True
+SF-10200,Sarah Foster,Consumer,2024-05-28,2024-12-31,True
+JW-5220,Jane Waco,Corporate,2024-05-28,2024-12-31,True
+CC-12100,Chad Cunningham,Home Office,2024-05-28,2024-12-31,True
+RD-19930,Russell D'Ascenzo,Consumer,2024-05-28,2024-12-31,True
+BP-1230,Benjamin Patterson,Consumer,2024-05-28,2024-12-31,True
+CS-12175,Charles Sheldon,Corporate,2024-05-28,2024-12-31,True
+JD-16060,Julia Dunbar,Consumer,2024-05-28,2024-12-31,True
+GH-14665,Greg Hansen,Consumer,2024-05-28,2024-12-31,True
+CM-11935,Carlos Meador,Consumer,2024-05-28,2024-12-31,True
+RB-9465,Rick Bensley,Home Office,2024-05-28,2024-12-31,True
+RB-19795,Ross Baird,Home Office,2024-05-28,2024-12-31,True
+DL-13495,Dionis Lloyd,Corporate,2024-05-28,2024-12-31,True
+TS-21205,Thomas Seio,Corporate,2024-05-28,2024-12-31,True
+MV-8190,Mike Vittorini,Consumer,2024-05-28,2024-12-31,True
+BD-11560,Brendan Dodson,Home Office,2024-05-28,2024-12-31,True
+PS-18760,Pamela Stobb,Consumer,2024-05-28,2024-12-31,True
+FM-14215,Filia McAdams,Corporate,2024-05-28,2024-12-31,True
+CA-12775,Cynthia Arntzen,Consumer,2024-05-28,2024-12-31,True
+CD-12790,Cynthia Delaney,Home Office,2024-05-28,2024-12-31,True
+NL-18310,Nancy Lomonaco,Home Office,2024-05-28,2024-12-31,True
+TB-21055,Ted Butterfield,Consumer,2024-05-28,2024-12-31,True
+EH-4125,Eugene Hildebrand,Home Office,2024-05-28,2024-12-31,True
+KB-16600,Ken Brennan,Corporate,2024-05-28,2024-12-31,True
+KW-16435,Katrina Willman,Consumer,2024-05-28,2024-12-31,True
+MG-17695,Maureen Gnade,Consumer,2024-05-28,2024-12-31,True
+HM-14860,Harry Marie,Corporate,2024-05-28,2024-12-31,True
+BP-11290,Beth Paige,Consumer,2024-05-28,2024-12-31,True
+HZ-4950,Henia Zydlo,Consumer,2024-05-28,2024-12-31,True
+TC-20980,Tamara Chand,Corporate,2024-05-28,2024-12-31,True
+EM-13825,Elizabeth Moffitt,Corporate,2024-05-28,2024-12-31,True
+BS-11800,Bryan Spruell,Home Office,2024-05-28,2024-12-31,True
+DV-13465,Dianna Vittorini,Consumer,2024-05-28,2024-12-31,True
+MB-17305,Maria Bertelson,Consumer,2024-05-28,2024-12-31,True
+PC-19000,Pauline Chand,Home Office,2024-05-28,2024-12-31,True
+CA-12310,Christine Abelman,Corporate,2024-05-28,2024-12-31,True
+KC-16255,Karen Carlisle,Corporate,2024-05-28,2024-12-31,True
+DB-3660,Duane Benoit,Consumer,2024-05-28,2024-12-31,True
+SC-20260,Scott Cohen,Corporate,2024-05-28,2024-12-31,True
+BD-11500,Bradley Drucker,Consumer,2024-05-28,2024-12-31,True
+BM-11140,Becky Martin,Consumer,2024-05-28,2024-12-31,True
+KB-16315,Karl Braun,Consumer,2024-05-28,2024-12-31,True
+JM-15865,John Murray,Consumer,2024-05-28,2024-12-31,True
+AF-10885,Art Foster,Consumer,2024-05-28,2024-12-31,True
+SJ-20500,Shirley Jackson,Consumer,2024-05-28,2024-12-31,True
+WB-21850,William Brown,Consumer,2024-05-28,2024-12-31,True
+CC-12610,Corey Catlett,Corporate,2024-05-28,2024-12-31,True
+BE-11455,Brad Eason,Home Office,2024-05-28,2024-12-31,True
+TG-21640,Trudy Glocke,Consumer,2024-05-28,2024-12-31,True
+MS-17365,Maribeth Schnelling,Consumer,2024-05-28,2024-12-31,True
+NP-18685,Nora Pelletier,Home Office,2024-05-28,2024-12-31,True
+RM-19675,Robert Marley,Home Office,2024-05-28,2024-12-31,True
+SN-20560,Skye Norling,Home Office,2024-05-28,2024-12-31,True
+CD-12280,Christina DeMoss,Consumer,2024-05-28,2024-12-31,True
+BG-11035,Barry Gonzalez,Consumer,2024-05-28,2024-12-31,True
+CC-12550,Clay Cheatham,Consumer,2024-05-28,2024-12-31,True
+SV-20785,Stewart Visinsky,Consumer,2024-05-28,2024-12-31,True
+HW-14935,Helen Wasserman,Corporate,2024-05-28,2024-12-31,True
+AS-10285,Alejandro Savely,Corporate,2024-05-28,2024-12-31,True
+LD-16855,Lela Donovan,Corporate,2024-05-28,2024-12-31,True
+NS-18505,Neola Schneider,Consumer,2024-05-28,2024-12-31,True
+CM-12715,Craig Molinari,Corporate,2024-05-28,2024-12-31,True
+JD-6060,Julia Dunbar,Consumer,2024-05-28,2024-12-31,True
+MG-17680,Maureen Gastineau,Home Office,2024-05-28,2024-12-31,True
+DB-13210,Dean Braden,Consumer,2024-05-28,2024-12-31,True
+CS-11860,Cari Schnelling,Consumer,2024-05-28,2024-12-31,True
+GG-14650,Greg Guthrie,Corporate,2024-05-28,2024-12-31,True
+BN-11470,Brad Norvell,Corporate,2024-05-28,2024-12-31,True
+BS-1665,Brian Stugart,Consumer,2024-05-28,2024-12-31,True
+AC-10450,Amy Cox,Consumer,2024-05-28,2024-12-31,True
+CK-12205,Chloris Kastensmidt,Consumer,2024-05-28,2024-12-31,True
+JD-16150,Justin Deggeller,Corporate,2024-05-28,2024-12-31,True
+CC-2550,Clay Cheatham,Consumer,2024-05-28,2024-12-31,True
+MS-17830,Melanie Seite,Consumer,2024-05-28,2024-12-31,True
+SM-20950,Suzanne McNair,Corporate,2024-05-28,2024-12-31,True
+CL-12700,Craig Leslie,Home Office,2024-05-28,2024-12-31,True
+CM-12160,Charles McCrossin,Consumer,2024-05-28,2024-12-31,True
+JC-15775,John Castell,Consumer,2024-05-28,2024-12-31,True
+LH-16900,Lena Hernandez,Consumer,2024-05-28,2024-12-31,True
+DV-13045,Darrin Van Huff,Corporate,2024-05-28,2024-12-31,True
+BT-11530,Bradley Talbott,Home Office,2024-05-28,2024-12-31,True
+BM-1650,Brian Moss,Corporate,2024-05-28,2024-12-31,True
+MG-18205,Mitch Gastineau,Corporate,2024-05-28,2024-12-31,True
+RB-19705,Roger Barcio,Home Office,2024-05-28,2024-12-31,True
+FC-14245,Frank Carlisle,Home Office,2024-05-28,2024-12-31,True
+TT-21220,Thomas Thornton,Consumer,2024-05-28,2024-12-31,True
+SJ-20215,Sarah Jordon,Consumer,2024-05-28,2024-12-31,True
+PB-18805,Patrick Bzostek,Home Office,2024-05-28,2024-12-31,True
+RW-19690,Robert Waldorf,Consumer,2024-05-28,2024-12-31,True
+DB-3360,Dennis Bolton,Home Office,2024-05-28,2024-12-31,True
+DK-13150,David Kendrick,Corporate,2024-05-28,2024-12-31,True
+RW-9540,Rick Wilson,Corporate,2024-05-28,2024-12-31,True
+MP-17470,Mark Packer,Home Office,2024-05-28,2024-12-31,True
+TB-21625,Trudy Brown,Consumer,2024-05-28,2024-12-31,True
+MO-17800,Meg O'Connel,Home Office,2024-05-28,2024-12-31,True
+MR-17545,Mathew Reese,Home Office,2024-05-28,2024-12-31,True
+LC-17050,Liz Carlisle,Consumer,2024-05-28,2024-12-31,True
+RA-19885,Ruben Ausman,Corporate,2024-05-28,2024-12-31,True
+MG-8145,Mike Gockenbach,Consumer,2024-05-28,2024-12-31,True
+JE-16165,Justin Ellison,Corporate,2024-05-28,2024-12-31,True
+JK-16090,Juliana Krohn,Consumer,2024-05-28,2024-12-31,True
+EM-13960,Eric Murdock,Consumer,2024-05-28,2024-12-31,True
+DJ-13420,Denny Joy,Corporate,2024-05-28,2024-12-31,True
+BO-11425,Bobby Odegard,Consumer,2024-05-28,2024-12-31,True
+LW-17215,Luke Weiss,Consumer,2024-05-28,2024-12-31,True
+PJ-19015,Pauline Johnson,Consumer,2024-05-28,2024-12-31,True
+KM-16720,Kunst Miller,Consumer,2024-05-28,2024-12-31,True
+BG-11695,Brooke Gillingham,Corporate,2024-05-28,2024-12-31,True
+CS-12130,Chad Sievert,Consumer,2024-05-28,2024-12-31,True
+MC-17425,Mark Cousins,Corporate,2024-05-28,2024-12-31,True
+BD-1635,Brian Derr,Consumer,2024-05-28,2024-12-31,True
+RF-19345,Randy Ferguson,Corporate,2024-05-28,2024-12-31,True
+MG-7680,Maureen Gastineau,Home Office,2024-05-28,2024-12-31,True
+KH-16690,Kristen Hastings,Corporate,2024-05-28,2024-12-31,True
+CC-12475,Cindy Chapman,Consumer,2024-05-28,2024-12-31,True
+LT-16765,Larry Tron,Consumer,2024-05-28,2024-12-31,True
+BF-10975,Barbara Fisher,Corporate,2024-05-28,2024-12-31,True
+CJ-12010,Caroline Jumper,Consumer,2024-05-28,2024-12-31,True
+SH-9975,Sally Hughsby,Corporate,2024-05-28,2024-12-31,True
+SL-20155,Sara Luxemburg,Home Office,2024-05-28,2024-12-31,True
+NC-8340,Nat Carroll,Consumer,2024-05-28,2024-12-31,True
+JB-5400,Jennifer Braxton,Corporate,2024-05-28,2024-12-31,True
+TB-21250,Tim Brockman,Consumer,2024-05-28,2024-12-31,True
+PS-18970,Paul Stevenson,Home Office,2024-05-28,2024-12-31,True
+BB-11545,Brenda Bowman,Corporate,2024-05-28,2024-12-31,True
+SG-10470,Sheri Gordon,Consumer,2024-05-28,2024-12-31,True
+SP-20920,Susan Pistek,Consumer,2024-05-28,2024-12-31,True
+Dp-13240,Dean percer,Home Office,2024-05-28,2024-12-31,True
+GZ-14470,Gary Zandusky,Consumer,2024-05-28,2024-12-31,True
+AH-10075,Adam Hart,Corporate,2024-05-28,2024-12-31,True
+CB-2025,Cassandra Brandow,Consumer,2024-05-28,2024-12-31,True
+SC-20050,Sample Company A,Home Office,2024-05-28,2024-12-31,True
+SC-10230,Scot Coram,Corporate,2024-05-28,2024-12-31,True
+JS-15595,Jill Stevenson,Corporate,2024-05-28,2024-12-31,True
+BS-11380,Bill Stewart,Corporate,2024-05-28,2024-12-31,True
+JL-5130,Jack Lebron,Consumer,2024-05-28,2024-12-31,True
+AS-10090,Adam Shillingsburg,Consumer,2024-05-28,2024-12-31,True
+EL-13735,Ed Ludwig,Home Office,2024-05-28,2024-12-31,True
+FH-14275,Frank Hawley,Corporate,2024-05-28,2024-12-31,True
+OT-18730,Olvera Toch,Consumer,2024-05-28,2024-12-31,True
+SM-10320,Sean Miller,Home Office,2024-05-28,2024-12-31,True
+PM-19135,Peter McVee,Home Office,2024-05-28,2024-12-31,True
+TS-11430,Tom Stivers,Corporate,2024-05-28,2024-12-31,True
+LS-17245,Lynn Smith,Consumer,2024-05-28,2024-12-31,True
+SF-20200,Sarah Foster,Consumer,2024-05-28,2024-12-31,True
+CM-11815,Candace McMahon,Corporate,2024-05-28,2024-12-31,True
+FG-14260,Frank Gastineau,Home Office,2024-05-28,2024-12-31,True
+KN-6705,Kristina Nunn,Home Office,2024-05-28,2024-12-31,True
+TB-11520,Tracy Blumstein,Consumer,2024-05-28,2024-12-31,True
+JB-15400,Jennifer Braxton,Corporate,2024-05-28,2024-12-31,True
+KH-16510,Keith Herrera,Consumer,2024-05-28,2024-12-31,True
+DL-13330,Denise Leinenbach,Consumer,2024-05-28,2024-12-31,True
+KN-16390,Katherine Nockton,Corporate,2024-05-28,2024-12-31,True
+SV-20935,Susan Vittorini,Consumer,2024-05-28,2024-12-31,True
+MD-17860,Michael Dominguez,Corporate,2024-05-28,2024-12-31,True
+LS-17200,Luke Schmidt,Corporate,2024-05-28,2024-12-31,True
+CM-12445,Chuck Magee,Consumer,2024-05-28,2024-12-31,True
+SS-20140,Saphhira Shifley,Corporate,2024-05-28,2024-12-31,True
+GH-14425,Gary Hwang,Consumer,2024-05-28,2024-12-31,True
+SM-20320,Sean Miller,Home Office,2024-05-28,2024-12-31,True
+GR-14560,Georgia Rosenberg,Corporate,2024-05-28,2024-12-31,True
+TS-21370,Todd Sumrall,Corporate,2024-05-28,2024-12-31,True
+DH-3675,Duane Huffman,Home Office,2024-05-28,2024-12-31,True
+MM-8280,Muhammed MacIntyre,Corporate,2024-05-28,2024-12-31,True
+PM-9135,Peter McVee,Home Office,2024-05-28,2024-12-31,True
+GP-4740,Guy Phonely,Corporate,2024-05-28,2024-12-31,True
+AF-10870,Art Ferguson,Consumer,2024-05-28,2024-12-31,True
+TS-21505,Tony Sayre,Consumer,2024-05-28,2024-12-31,True
+BM-11575,Brendan Murry,Corporate,2024-05-28,2024-12-31,True
+AH-10030,Aaron Hawkins,Corporate,2024-05-28,2024-12-31,True
+AG-10495,Andrew Gjertsen,Corporate,2024-05-28,2024-12-31,True
+AG-675,Anna Gayman,Consumer,2024-05-28,2024-12-31,True
+SW-20755,Steven Ward,Corporate,2024-05-28,2024-12-31,True
+SK-19990,Sally Knutson,Consumer,2024-05-28,2024-12-31,True
+AG-10900,Arthur Gainer,Consumer,2024-05-28,2024-12-31,True
+AJ-960,Astrea Jones,Consumer,2024-05-28,2024-12-31,True
+MC-7275,Marc Crier,Consumer,2024-05-28,2024-12-31,True
+ER-13855,Elpida Rittenbach,Corporate,2024-05-28,2024-12-31,True
+EJ-13720,Ed Jacobs,Consumer,2024-05-28,2024-12-31,True
+DH-13675,Duane Huffman,Home Office,2024-05-28,2024-12-31,True
+HE-14800,Harold Engle,Corporate,2024-05-28,2024-12-31,True
+KT-16480,Kean Thornton,Consumer,2024-05-28,2024-12-31,True
+SB-20170,Sarah Bern,Consumer,2024-05-28,2024-12-31,True
+EM-14140,Eugene Moren,Home Office,2024-05-28,2024-12-31,True
+VT-21700,Valerie Takahito,Home Office,2024-05-28,2024-12-31,True
+JS-15880,John Stevenson,Consumer,2024-05-28,2024-12-31,True
+BC-11125,Becky Castell,Home Office,2024-05-28,2024-12-31,True
+NF-18595,Nicole Fjeld,Home Office,2024-05-28,2024-12-31,True
+RH-9600,Rob Haberlin,Consumer,2024-05-28,2024-12-31,True
+CS-11950,Carlos Soltero,Consumer,2024-05-28,2024-12-31,True
+CM-12235,Chris McAfee,Consumer,2024-05-28,2024-12-31,True
+LW-16825,Laurel Workman,Corporate,2024-05-28,2024-12-31,True
+RD-19585,Rob Dowd,Consumer,2024-05-28,2024-12-31,True
+BT-11680,Brian Thompson,Consumer,2024-05-28,2024-12-31,True
+MD-7860,Michael Dominguez,Corporate,2024-05-28,2024-12-31,True
+CC-12145,Charles Crestani,Consumer,2024-05-28,2024-12-31,True
+XP-21865,Xylona Preis,Consumer,2024-05-28,2024-12-31,True
+ML-17410,Maris LaWare,Consumer,2024-05-28,2024-12-31,True
+BS-11665,Brian Stugart,Consumer,2024-05-28,2024-12-31,True
+SC-20230,Scot Coram,Corporate,2024-05-28,2024-12-31,True
+QJ-19255,Quincy Jones,Corporate,2024-05-28,2024-12-31,True
+RE-19450,Richard Eichhorn,Consumer,2024-05-28,2024-12-31,True
+CP-2085,Cathy Prescott,Corporate,2024-05-28,2024-12-31,True
+JK-5730,Joe Kamberova,Consumer,2024-05-28,2024-12-31,True
+HZ-14950,Henia Zydlo,Consumer,2024-05-28,2024-12-31,True
+AR-10570,Anemone Ratner,Consumer,2024-05-28,2024-12-31,True
+EH-14005,Erica Hernandez,Home Office,2024-05-28,2024-12-31,True
+JR-15700,Jocasta Rupert,Consumer,2024-05-28,2024-12-31,True
+PL-18925,Paul Lucas,Home Office,2024-05-28,2024-12-31,True
+TC-21145,Theresa Coyne,Corporate,2024-05-28,2024-12-31,True
+DG-13300,Deirdre Greer,Corporate,2024-05-28,2024-12-31,True
+Dl-13600,Dorris liebe,Corporate,2024-05-28,2024-12-31,True
+NC-18415,Nathan Cano,Consumer,2024-05-28,2024-12-31,True
+EB-13930,Eric Barreto,Consumer,2024-05-28,2024-12-31,True
+CP-12085,Cathy Prescott,Corporate,2024-05-28,2024-12-31,True
+SM-20005,Sally Matthias,Consumer,2024-05-28,2024-12-31,True
+JR-15670,Jim Radford,Consumer,2024-05-28,2024-12-31,True
+DL-12925,Daniel Lacy,Consumer,2024-05-28,2024-12-31,True
+FM-14290,Frank Merwin,Home Office,2024-05-28,2024-12-31,True
+DP-13165,David Philippe,Consumer,2024-05-28,2024-12-31,True
+CK-12595,Clytie Kelty,Consumer,2024-05-28,2024-12-31,True
+CM-11830,Cari MacIntyre,Corporate,2024-05-28,2024-12-31,True
+PP-18955,Paul Prost,Home Office,2024-05-28,2024-12-31,True
+MM-17260,Magdelene Morse,Consumer,2024-05-28,2024-12-31,True
+ME-17320,Maria Etezadi,Home Office,2024-05-28,2024-12-31,True
+CS-12490,Cindy Schnelling,Corporate,2024-05-28,2024-12-31,True
+GH-14410,Gary Hansen,Home Office,2024-05-28,2024-12-31,True
+MC-17635,Matthew Clasen,Corporate,2024-05-28,2024-12-31,True
+LM-7065,Liz MacKendrick,Consumer,2024-05-28,2024-12-31,True
+AR-10510,Andrew Roberts,Consumer,2024-05-28,2024-12-31,True
+JH-15910,Jonathan Howell,Consumer,2024-05-28,2024-12-31,True
+DK-3375,Dennis Kane,Consumer,2024-05-28,2024-12-31,True
+EG-13900,Emily Grady,Consumer,2024-05-28,2024-12-31,True
+AS-10630,Ann Steele,Home Office,2024-05-28,2024-12-31,True
+CL-11890,Carl Ludwig,Consumer,2024-05-28,2024-12-31,True
+CA-12265,Christina Anderson,Consumer,2024-05-28,2024-12-31,True
+PF-19165,Philip Fox,Consumer,2024-05-28,2024-12-31,True
+DB-12970,Darren Budd,Corporate,2024-05-28,2024-12-31,True
+CL-12565,Clay Ludtke,Consumer,2024-05-28,2024-12-31,True
+MF-17665,Maureen Fritzler,Corporate,2024-05-28,2024-12-31,True
+IM-15055,Ionia McGrath,Consumer,2024-05-28,2024-12-31,True
+EB-13975,Erica Bern,Corporate,2024-05-28,2024-12-31,True
+AA-10315,Alex Avila,Consumer,2024-05-28,2024-12-31,True
+MV-17485,Mark Van Huff,Consumer,2024-05-28,2024-12-31,True
+JW-15955,Joni Wasserman,Consumer,2024-05-28,2024-12-31,True
+TS-21610,Troy Staebel,Consumer,2024-05-28,2024-12-31,True
+MC-17575,Matt Collins,Consumer,2024-05-28,2024-12-31,True
+JF-5415,Jennifer Ferguson,Consumer,2024-05-28,2024-12-31,True
+AH-10210,Alan Hwang,Consumer,2024-05-28,2024-12-31,True
+KD-16345,Katherine Ducich,Consumer,2024-05-28,2024-12-31,True
+PG-18895,Paul Gonzalez,Consumer,2024-05-28,2024-12-31,True
+HK-14890,Heather Kirkland,Corporate,2024-05-28,2024-12-31,True
+RR-19315,Ralph Ritter,Consumer,2024-05-28,2024-12-31,True
+HH-5010,Hilary Holden,Corporate,2024-05-28,2024-12-31,True
+SH-20635,Stefanie Holloman,Corporate,2024-05-28,2024-12-31,True
+AR-10825,Anthony Rawles,Corporate,2024-05-28,2024-12-31,True
+RP-9855,Roy Phan,Corporate,2024-05-28,2024-12-31,True
+LR-17035,Lisa Ryan,Corporate,2024-05-28,2024-12-31,True
+IM-5055,Ionia McGrath,Consumer,2024-05-28,2024-12-31,True
+CK-12325,Christine Kargatis,Home Office,2024-05-28,2024-12-31,True
+AS-285,Alejandro Savely,Corporate,2024-05-28,2024-12-31,True
+DK-12985,Darren Koutras,Consumer,2024-05-28,2024-12-31,True
+EH-4185,Evan Henry,Consumer,2024-05-28,2024-12-31,True
+ML-17395,Marina Lichtenstein,Corporate,2024-05-28,2024-12-31,True
+BF-11215,Benjamin Farhat,Home Office,2024-05-28,2024-12-31,True
+MB-7305,Maria Bertelson,Consumer,2024-05-28,2024-12-31,True
+CR-12580,Clay Rozendal,Home Office,2024-05-28,2024-12-31,True
+TB-21520,Tracy Blumstein,Consumer,2024-05-28,2024-12-31,True
+KN-16450,Kean Nguyen,Corporate,2024-05-28,2024-12-31,True
+HR-14770,Hallie Redmond,Home Office,2024-05-28,2024-12-31,True
+CK-12760,Cyma Kinney,Corporate,2024-05-28,2024-12-31,True
+RO-9780,Rose O'Brian,Consumer,2024-05-28,2024-12-31,True
+EN-13780,Edward Nazzal,Consumer,2024-05-28,2024-12-31,True
+AH-10465,Amy Hunt,Consumer,2024-05-28,2024-12-31,True
+AH-10585,Angele Hood,Consumer,2024-05-28,2024-12-31,True
+RB-9435,Richard Bierner,Consumer,2024-05-28,2024-12-31,True
+AG-525,Andy Gerbode,Corporate,2024-05-28,2024-12-31,True
+AR-10345,Alex Russell,Corporate,2024-05-28,2024-12-31,True
+MW-8220,Mitch Webber,Consumer,2024-05-28,2024-12-31,True
+AH-210,Alan Hwang,Consumer,2024-05-28,2024-12-31,True
+TH-21235,Tiffany House,Corporate,2024-05-28,2024-12-31,True
+LT-7110,Liz Thompson,Consumer,2024-05-28,2024-12-31,True
+HD-14785,Harold Dahlen,Home Office,2024-05-28,2024-12-31,True
+MC-7575,Matt Collins,Consumer,2024-05-28,2024-12-31,True
+MH-18025,Michelle Huthwaite,Consumer,2024-05-28,2024-12-31,True
+CC-2475,Cindy Chapman,Consumer,2024-05-28,2024-12-31,True
+CM-12190,Charlotte Melton,Consumer,2024-05-28,2024-12-31,True
+RA-19915,Russell Applegate,Consumer,2024-05-28,2024-12-31,True
+MT-18070,Michelle Tran,Home Office,2024-05-28,2024-12-31,True
+JF-15415,Jennifer Ferguson,Consumer,2024-05-28,2024-12-31,True
+ES-14020,Erica Smith,Consumer,2024-05-28,2024-12-31,True
+CC-12685,Craig Carroll,Consumer,2024-05-28,2024-12-31,True
+IM-15070,Irene Maddox,Consumer,2024-05-28,2024-12-31,True
+DA-13450,Dianna Arnett,Home Office,2024-05-28,2024-12-31,True
+SS-10410,Shahid Shariari,Consumer,2024-05-28,2024-12-31,True
+BM-11650,Brian Moss,Corporate,2024-05-28,2024-12-31,True
+SW-20350,Sean Wendt,Home Office,2024-05-28,2024-12-31,True
+CM-1830,Cari MacIntyre,Corporate,2024-05-28,2024-12-31,True
+MY-17380,Maribeth Yedwab,Corporate,2024-05-28,2024-12-31,True
+MS-7830,Melanie Seite,Consumer,2024-05-28,2024-12-31,True
+HG-14965,Henry Goldwyn,Corporate,2024-05-28,2024-12-31,True
+DC-13285,Debra Catini,Consumer,2024-05-28,2024-12-31,True
+DL-13315,Delfina Latchford,Consumer,2024-05-28,2024-12-31,True
+JK-15370,Jay Kimmel,Consumer,2024-05-28,2024-12-31,True
+CH-2070,Cathy Hwang,Home Office,2024-05-28,2024-12-31,True
+MH-7440,Mark Haberlin,Corporate,2024-05-28,2024-12-31,True
+MC-17845,Michael Chen,Consumer,2024-05-28,2024-12-31,True
+PW-19030,Pauline Webber,Corporate,2024-05-28,2024-12-31,True
+BS-11590,Brendan Sweed,Corporate,2024-05-28,2024-12-31,True
+DO-13435,Denny Ordway,Consumer,2024-05-28,2024-12-31,True
+SG-20890,Susan Gilcrest,Corporate,2024-05-28,2024-12-31,True
+SU-20665,Stephanie Ulpright,Home Office,2024-05-28,2024-12-31,True
+JC-16105,Julie Creighton,Corporate,2024-05-28,2024-12-31,True
+TB-21190,Thomas Brumley,Home Office,2024-05-28,2024-12-31,True
+SV-10785,Stewart Visinsky,Consumer,2024-05-28,2024-12-31,True
+VP-21760,Victoria Pisteka,Corporate,2024-05-28,2024-12-31,True
+LR-16915,Lena Radford,Consumer,2024-05-28,2024-12-31,True
+TH-21550,Tracy Hopkins,Home Office,2024-05-28,2024-12-31,True
+TC-11145,Theresa Coyne,Corporate,2024-05-28,2024-12-31,True
+JL-15235,Janet Lee,Consumer,2024-05-28,2024-12-31,True
+RK-19300,Ralph Kennedy,Consumer,2024-05-28,2024-12-31,True
+CC-12670,Craig Carreira,Consumer,2024-05-28,2024-12-31,True
+DB-13555,Dorothy Badders,Corporate,2024-05-28,2024-12-31,True
+SG-20605,Speros Goranitis,Consumer,2024-05-28,2024-12-31,True
+MG-17890,Michael Granlund,Home Office,2024-05-28,2024-12-31,True
+MA-17560,Matt Abelman,Home Office,2024-05-28,2024-12-31,True
+CB-12025,Cassandra Brandow,Consumer,2024-05-28,2024-12-31,True
+DH-13075,Dave Hallsten,Corporate,2024-05-28,2024-12-31,True
+BT-11395,Bill Tyler,Corporate,2024-05-28,2024-12-31,True
+TT-11265,Tim Taslimi,Corporate,2024-05-28,2024-12-31,True
+TH-11235,Tiffany House,Corporate,2024-05-28,2024-12-31,True
+VG-21790,Vivek Gonzalez,Consumer,2024-05-28,2024-12-31,True
+NW-18400,Natalie Webber,Consumer,2024-05-28,2024-12-31,True
+VP-21730,Victor Preis,Home Office,2024-05-28,2024-12-31,True
+SS-20410,Shahid Shariari,Consumer,2024-05-28,2024-12-31,True
+JE-15715,Joe Elijah,Consumer,2024-05-28,2024-12-31,True
+AG-270,Alejandro Grove,Consumer,2024-05-28,2024-12-31,True
+BW-11200,Ben Wallace,Consumer,2024-05-28,2024-12-31,True
+EK-13795,Eileen Kiefer,Home Office,2024-05-28,2024-12-31,True
+SG-20080,Sandra Glassco,Consumer,2024-05-28,2024-12-31,True
+SC-10725,Steven Cartwright,Consumer,2024-05-28,2024-12-31,True
+AG-10525,Andy Gerbode,Corporate,2024-05-28,2024-12-31,True
+MG-18145,Mike Gockenbach,Consumer,2024-05-28,2024-12-31,True
+BD-11605,Brian Dahlen,Consumer,2024-05-28,2024-12-31,True
+PB-19105,Peter Bühler,Consumer,2024-05-28,2024-12-31,True
+SC-20575,Sonia Cooley,Consumer,2024-05-28,2024-12-31,True
+DO-3435,Denny Ordway,Consumer,2024-05-28,2024-12-31,True
+CC-12220,Chris Cortes,Consumer,2024-05-28,2024-12-31,True
+TS-21430,Tom Stivers,Corporate,2024-05-28,2024-12-31,True
+AZ-10750,Annie Zypern,Consumer,2024-05-28,2024-12-31,True
+IG-15085,Ivan Gibson,Consumer,2024-05-28,2024-12-31,True
+SP-20860,Sung Pak,Corporate,2024-05-28,2024-12-31,True
+KM-16225,Kalyca Meade,Corporate,2024-05-28,2024-12-31,True
+KM-6720,Kunst Miller,Consumer,2024-05-28,2024-12-31,True
+MM-18055,Michelle Moray,Consumer,2024-05-28,2024-12-31,True
+RB-19360,Raymond Buch,Consumer,2024-05-28,2024-12-31,True
+NC-8415,Nathan Cano,Consumer,2024-05-28,2024-12-31,True
+SN-20710,Steve Nguyen,Home Office,2024-05-28,2024-12-31,True
+DL-3330,Denise Leinenbach,Consumer,2024-05-28,2024-12-31,True
+JG-15115,Jack Garza,Consumer,2024-05-28,2024-12-31,True
+CJ-11875,Carl Jackson,Corporate,2024-05-28,2024-12-31,True
+AY-10555,Andy Yotov,Corporate,2024-05-28,2024-12-31,True
+BV-11245,Benjamin Venier,Corporate,2024-05-28,2024-12-31,True
+PO-9195,Phillina Ober,Home Office,2024-05-28,2024-12-31,True
+GZ-4545,George Zrebassa,Corporate,2024-05-28,2024-12-31,True
+PN-18775,Parhena Norris,Home Office,2024-05-28,2024-12-31,True
+SC-20800,Stuart Calhoun,Consumer,2024-05-28,2024-12-31,True
+AC-10615,Ann Chong,Corporate,2024-05-28,2024-12-31,True
+VB-21745,Victoria Brennan,Corporate,2024-05-28,2024-12-31,True
+TT-11460,Tonja Turnell,Home Office,2024-05-28,2024-12-31,True
+AC-10420,Alyssa Crouse,Corporate,2024-05-28,2024-12-31,True
+CG-12040,Catherine Glotzbach,Home Office,2024-05-28,2024-12-31,True
+TR-11325,Toby Ritter,Consumer,2024-05-28,2024-12-31,True
+SC-20440,Shaun Chance,Corporate,2024-05-28,2024-12-31,True
+BT-11305,Beth Thompson,Home Office,2024-05-28,2024-12-31,True
+JB-15925,Joni Blumstein,Consumer,2024-05-28,2024-12-31,True
+GW-14605,Giulietta Weimer,Consumer,2024-05-28,2024-12-31,True
+SC-20725,Steven Cartwright,Consumer,2024-05-28,2024-12-31,True
+EH-13765,Edward Hooks,Corporate,2024-05-28,2024-12-31,True
+YS-21880,Yana Sorensen,Corporate,2024-05-28,2024-12-31,True
+FO-14305,Frank Olsen,Consumer,2024-05-28,2024-12-31,True
+RP-19855,Roy Phan,Corporate,2024-05-28,2024-12-31,True
+AB-10600,Ann Blume,Corporate,2024-05-28,2024-12-31,True
+KB-16240,Karen Bern,Corporate,2024-05-28,2024-12-31,True
+KA-16525,Kelly Andreada,Consumer,2024-05-28,2024-12-31,True
+EM-3960,Eric Murdock,Consumer,2024-05-28,2024-12-31,True
+JD-15790,John Dryer,Consumer,2024-05-28,2024-12-31,True
+JL-15850,John Lucas,Consumer,2024-05-28,2024-12-31,True
+JW-16075,Julia West,Consumer,2024-05-28,2024-12-31,True
+LL-6840,Lauren Leatherbury,Consumer,2024-05-28,2024-12-31,True
+TH-21100,Thea Hendricks,Consumer,2024-05-28,2024-12-31,True
+MC-17275,Marc Crier,Consumer,2024-05-28,2024-12-31,True
+NG-8430,Nathan Gelder,Consumer,2024-05-28,2024-12-31,True
+KD-16615,Ken Dana,Corporate,2024-05-28,2024-12-31,True
+MC-17605,Matt Connell,Corporate,2024-05-28,2024-12-31,True
+JK-15625,Jim Karlsson,Consumer,2024-05-28,2024-12-31,True
+TS-11505,Tony Sayre,Consumer,2024-05-28,2024-12-31,True
+LD-6855,Lela Donovan,Corporate,2024-05-28,2024-12-31,True
+LP-17080,Liz Pelletier,Consumer,2024-05-28,2024-12-31,True
+CV-12805,Cynthia Voltz,Corporate,2024-05-28,2024-12-31,True
+MO-17500,Mary O'Rourke,Consumer,2024-05-28,2024-12-31,True
+MS-17530,MaryBeth Skach,Consumer,2024-05-28,2024-12-31,True
+GA-14515,George Ashbrook,Consumer,2024-05-28,2024-12-31,True
+CS-12355,Christine Sundaresam,Consumer,2024-05-28,2024-12-31,True
+GM-14500,Gene McClure,Consumer,2024-05-28,2024-12-31,True
+CC-2670,Craig Carreira,Consumer,2024-05-28,2024-12-31,True
+MN-17935,Michael Nguyen,Consumer,2024-05-28,2024-12-31,True
+JM-16195,Justin MacKendrick,Consumer,2024-05-28,2024-12-31,True
+DB-13615,Doug Bickford,Consumer,2024-05-28,2024-12-31,True
+PK-18910,Paul Knutson,Home Office,2024-05-28,2024-12-31,True
+LS-16945,Linda Southworth,Corporate,2024-05-28,2024-12-31,True
+JK-15730,Joe Kamberova,Consumer,2024-05-28,2024-12-31,True
+SW-10275,Scott Williamson,Consumer,2024-05-28,2024-12-31,True
+MC-18100,Mick Crebagga,Consumer,2024-05-28,2024-12-31,True
+EH-13945,Eric Hoffmann,Consumer,2024-05-28,2024-12-31,True
+LC-16930,Linda Cazamias,Corporate,2024-05-28,2024-12-31,True
+MA-17995,Michelle Arnett,Home Office,2024-05-28,2024-12-31,True
+SP-20650,Stephanie Phelps,Corporate,2024-05-28,2024-12-31,True
+JH-15430,Jennifer Halladay,Consumer,2024-05-28,2024-12-31,True
+ML-17755,Max Ludwig,Home Office,2024-05-28,2024-12-31,True
+PC-18745,Pamela Coakley,Corporate,2024-05-28,2024-12-31,True
+KE-16420,Katrina Edelman,Corporate,2024-05-28,2024-12-31,True
+EM-4200,Evan Minnotte,Home Office,2024-05-28,2024-12-31,True
+DW-13480,Dianna Wilson,Home Office,2024-05-28,2024-12-31,True
+SC-10680,Steve Carroll,Home Office,2024-05-28,2024-12-31,True
+JG-15805,John Grady,Corporate,2024-05-28,2024-12-31,True
+LL-16840,Lauren Leatherbury,Consumer,2024-05-28,2024-12-31,True
+PV-8985,Paul Van Hugh,Home Office,2024-05-28,2024-12-31,True
+PO-19180,Philisse Overcash,Home Office,2024-05-28,2024-12-31,True
+SH-19975,Sally Hughsby,Corporate,2024-05-28,2024-12-31,True
+GA-14725,Guy Armstrong,Consumer,2024-05-28,2024-12-31,True
+GT-4755,Guy Thornton,Consumer,2024-05-28,2024-12-31,True
+PR-18880,Patrick Ryan,Consumer,2024-05-28,2024-12-31,True
+AG-10765,Anthony Garverick,Home Office,2024-05-28,2024-12-31,True
+SE-20110,Sanjit Engle,Consumer,2024-05-28,2024-12-31,True
+JB-16045,Julia Barnett,Home Office,2024-05-28,2024-12-31,True
+JM-5580,Jill Matthias,Consumer,2024-05-28,2024-12-31,True
+JO-15280,Jas O'Carroll,Consumer,2024-05-28,2024-12-31,True
+LP-17095,Liz Preis,Consumer,2024-05-28,2024-12-31,True
+EJ-14155,Eva Jacobs,Consumer,2024-05-28,2024-12-31,True
+VW-21775,Victoria Wilson,Corporate,2024-05-28,2024-12-31,True
+GM-14455,Gary Mitchum,Home Office,2024-05-28,2024-12-31,True
+BF-1080,Bart Folk,Consumer,2024-05-28,2024-12-31,True
+SM-20905,Susan MacKendrick,Consumer,2024-05-28,2024-12-31,True
+BO-1425,Bobby Odegard,Consumer,2024-05-28,2024-12-31,True
+AW-10930,Arthur Wiediger,Home Office,2024-05-28,2024-12-31,True
+JP-15460,Jennifer Patt,Corporate,2024-05-28,2024-12-31,True
+AS-10240,Alan Shonely,Consumer,2024-05-28,2024-12-31,True
+TB-11625,Trudy Brown,Consumer,2024-05-28,2024-12-31,True
+JP-5520,Jeremy Pistek,Consumer,2024-05-28,2024-12-31,True
+BD-11770,Bryan Davis,Consumer,2024-05-28,2024-12-31,True
+BD-11635,Brian Derr,Consumer,2024-05-28,2024-12-31,True
+CC-2370,Christopher Conant,Consumer,2024-05-28,2024-12-31,True
+PO-8850,Patrick O'Brill,Consumer,2024-05-28,2024-12-31,True
+TZ-21445,Tom Zandusky,Corporate,2024-05-28,2024-12-31,True
+RB-19435,Richard Bierner,Consumer,2024-05-28,2024-12-31,True
+JE-15475,Jeremy Ellison,Consumer,2024-05-28,2024-12-31,True
+AI-10855,Arianne Irving,Consumer,2024-05-28,2024-12-31,True
+MH-17440,Mark Haberlin,Corporate,2024-05-28,2024-12-31,True
+JE-6165,Justin Ellison,Corporate,2024-05-28,2024-12-31,True
+DS-13180,David Smith,Corporate,2024-05-28,2024-12-31,True
+AC-10660,Anna Chung,Consumer,2024-05-28,2024-12-31,True
+MH-17455,Mark Hamilton,Consumer,2024-05-28,2024-12-31,True
+CC-12430,Chuck Clark,Home Office,2024-05-28,2024-12-31,True
+NG-18355,Nat Gilpin,Corporate,2024-05-28,2024-12-31,True
+RC-19825,Roy Collins,Consumer,2024-05-28,2024-12-31,True
+JD-16015,Joy Daniels,Consumer,2024-05-28,2024-12-31,True
+JH-5910,Jonathan Howell,Consumer,2024-05-28,2024-12-31,True
+SC-10695,Steve Chapman,Corporate,2024-05-28,2024-12-31,True
+RD-9930,Russell D'Ascenzo,Consumer,2024-05-28,2024-12-31,True
+LC-6930,Linda Cazamias,Corporate,2024-05-28,2024-12-31,True
+DW-13195,David Wiener,Corporate,2024-05-28,2024-12-31,True
+RD-19900,Ruben Dartt,Consumer,2024-05-28,2024-12-31,True
+MV-18190,Mike Vittorini,Consumer,2024-05-28,2024-12-31,True
+RD-19480,Rick Duston,Consumer,2024-05-28,2024-12-31,True
+SV-20365,Seth Vernon,Consumer,2024-05-28,2024-12-31,True
+LS-17230,Lycoris Saunders,Consumer,2024-05-28,2024-12-31,True
+GD-14590,Giulietta Dortch,Corporate,2024-05-28,2024-12-31,True
+EB-13750,Edward Becker,Corporate,2024-05-28,2024-12-31,True
+KH-6360,Katherine Hughes,Consumer,2024-05-28,2024-12-31,True
+BF-11275,Beth Fritzler,Corporate,2024-05-28,2024-12-31,True
+NG-18430,Nathan Gelder,Consumer,2024-05-28,2024-12-31,True
+Co-12640,Corey-Lock,Consumer,2024-05-28,2024-12-31,True
+SF-20965,Sylvia Foulston,Corporate,2024-05-28,2024-12-31,True
+KB-16405,Katrina Bavinger,Home Office,2024-05-28,2024-12-31,True
+LC-16870,Lena Cacioppo,Consumer,2024-05-28,2024-12-31,True
+JL-15505,Jeremy Lonsdale,Consumer,2024-05-28,2024-12-31,True
+BD-11725,Bruce Degenhardt,Consumer,2024-05-28,2024-12-31,True
+TM-21010,Tamara Manning,Consumer,2024-05-28,2024-12-31,True
+AB-150,Aimee Bixby,Consumer,2024-05-28,2024-12-31,True
+BW-11065,Barry Weirich,Consumer,2024-05-28,2024-12-31,True
+FM-14380,Fred McMath,Consumer,2024-05-28,2024-12-31,True
+PC-8745,Pamela Coakley,Corporate,2024-05-28,2024-12-31,True
+BN-1470,Brad Norvell,Corporate,2024-05-28,2024-12-31,True
+AH-10120,Adrian Hane,Home Office,2024-05-28,2024-12-31,True
+LF-17185,Luke Foster,Consumer,2024-05-28,2024-12-31,True
+DJ-13630,Doug Jacobs,Consumer,2024-05-28,2024-12-31,True
+SJ-20125,Sanjit Jacobs,Home Office,2024-05-28,2024-12-31,True
+ML-18265,Muhammed Lee,Consumer,2024-05-28,2024-12-31,True
+SF-10965,Sylvia Foulston,Corporate,2024-05-28,2024-12-31,True
+PO-8865,Patrick O'Donnell,Consumer,2024-05-28,2024-12-31,True
+MH-17290,Marc Harrigan,Home Office,2024-05-28,2024-12-31,True
+NR-18550,Nick Radford,Consumer,2024-05-28,2024-12-31,True
+MK-17905,Michael Kennedy,Corporate,2024-05-28,2024-12-31,True
+DB-13660,Duane Benoit,Consumer,2024-05-28,2024-12-31,True
+PH-18790,Patricia Hirasaki,Home Office,2024-05-28,2024-12-31,True
+AB-10165,Alan Barnes,Consumer,2024-05-28,2024-12-31,True
+CA-12055,Cathy Armstrong,Home Office,2024-05-28,2024-12-31,True
+JF-5295,Jason Fortune-,Consumer,2024-05-28,2024-12-31,True
+KT-16465,Kean Takahito,Consumer,2024-05-28,2024-12-31,True
+RB-9705,Roger Barcio,Home Office,2024-05-28,2024-12-31,True
+BD-1725,Bruce Degenhardt,Consumer,2024-05-28,2024-12-31,True
+EB-13705,Ed Braxton,Corporate,2024-05-28,2024-12-31,True
+MG-17875,Michael Grace,Home Office,2024-05-28,2024-12-31,True
+MG-17650,Matthew Grinstein,Home Office,2024-05-28,2024-12-31,True
+AG-10270,Alejandro Grove,Consumer,2024-05-28,2024-12-31,True
+NP-8685,Nora Pelletier,Home Office,2024-05-28,2024-12-31,True
+AS-630,Ann Steele,Home Office,2024-05-28,2024-12-31,True
+SC-20680,Steve Carroll,Home Office,2024-05-28,2024-12-31,True
+MC-17590,Matt Collister,Corporate,2024-05-28,2024-12-31,True
+TP-11415,Tom Prescott,Consumer,2024-05-28,2024-12-31,True
+HH-15010,Hilary Holden,Corporate,2024-05-28,2024-12-31,True
+BT-11485,Brad Thomas,Home Office,2024-05-28,2024-12-31,True
+EB-13870,Emily Burns,Consumer,2024-05-28,2024-12-31,True
+JP-15520,Jeremy Pistek,Consumer,2024-05-28,2024-12-31,True
+CM-2115,Chad McGuire,Consumer,2024-05-28,2024-12-31,True
+EA-14035,Erin Ashbrook,Corporate,2024-05-28,2024-12-31,True
+FH-14350,Fred Harton,Consumer,2024-05-28,2024-12-31,True
+BS-1800,Bryan Spruell,Home Office,2024-05-28,2024-12-31,True
+AA-10375,Allen Armold,Consumer,2024-05-28,2024-12-31,True
+BN-11515,Bradley Nguyen,Consumer,2024-05-28,2024-12-31,True
+EG-3900,Emily Grady,Consumer,2024-05-28,2024-12-31,True
+RE-19405,Ricardo Emerson,Consumer,2024-05-28,2024-12-31,True
+ND-18460,Neil Ducich,Corporate,2024-05-28,2024-12-31,True
+TT-21460,Tonja Turnell,Home Office,2024-05-28,2024-12-31,True
+ML-18040,Michelle Lonsdale,Corporate,2024-05-28,2024-12-31,True
+JL-5505,Jeremy Lonsdale,Consumer,2024-05-28,2024-12-31,True
+SP-20545,Sibella Parks,Corporate,2024-05-28,2024-12-31,True
+SF-10065,Sandra Flanagan,Consumer,2024-05-28,2024-12-31,True
+AS-10045,Aaron Smayling,Corporate,2024-05-28,2024-12-31,True
+TT-11220,Thomas Thornton,Consumer,2024-05-28,2024-12-31,True
+AH-10195,Alan Haines,Corporate,2024-05-28,2024-12-31,True
+KH-6630,Ken Heidel,Corporate,2024-05-28,2024-12-31,True
+AA-10645,Anna Andreadi,Consumer,2024-05-28,2024-12-31,True
+JL-15130,Jack Lebron,Consumer,2024-05-28,2024-12-31,True
+KM-6375,Katherine Murray,Home Office,2024-05-28,2024-12-31,True
+LS-16975,Lindsay Shagiari,Home Office,2024-05-28,2024-12-31,True
+KL-16645,Ken Lonsdale,Consumer,2024-05-28,2024-12-31,True
+EH-14185,Evan Henry,Consumer,2024-05-28,2024-12-31,True
+KW-6570,Kelly Williams,Consumer,2024-05-28,2024-12-31,True
+DB-3060,Dave Brooks,Consumer,2024-05-28,2024-12-31,True
+FA-14230,Frank Atkinson,Corporate,2024-05-28,2024-12-31,True
+JF-15565,Jill Fjeld,Consumer,2024-05-28,2024-12-31,True
+LO-7170,Lori Olson,Corporate,2024-05-28,2024-12-31,True
+KB-6315,Karl Braun,Consumer,2024-05-28,2024-12-31,True
+BS-11755,Bruce Stewart,Consumer,2024-05-28,2024-12-31,True
+RB-19465,Rick Bensley,Home Office,2024-05-28,2024-12-31,True
+HF-14995,Herbert Flentye,Consumer,2024-05-28,2024-12-31,True
+MP-17965,Michael Paige,Corporate,2024-05-28,2024-12-31,True
+JJ-15445,Jennifer Jackson,Consumer,2024-05-28,2024-12-31,True
+LC-17140,Logan Currie,Consumer,2024-05-28,2024-12-31,True
+TT-11070,Ted Trevino,Consumer,2024-05-28,2024-12-31,True
+BF-11020,Barry Französisch,Corporate,2024-05-28,2024-12-31,True
+ES-14080,Erin Smith,Corporate,2024-05-28,2024-12-31,True
+FC-14335,Fred Chung,Corporate,2024-05-28,2024-12-31,True
+TS-21160,Theresa Swint,Corporate,2024-05-28,2024-12-31,True
+RE-9450,Richard Eichhorn,Consumer,2024-05-28,2024-12-31,True
+JC-15340,Jasper Cacioppo,Consumer,2024-05-28,2024-12-31,True
+MH-17785,Maya Herman,Corporate,2024-05-28,2024-12-31,True
+RF-19840,Roy Französisch,Consumer,2024-05-28,2024-12-31,True
+PG-18820,Patrick Gardner,Consumer,2024-05-28,2024-12-31,True
+DO-13645,Doug O'Connell,Consumer,2024-05-28,2024-12-31,True
+SC-10305,Sean Christensen,Consumer,2024-05-28,2024-12-31,True
+TN-21040,Tanja Norvell,Home Office,2024-05-28,2024-12-31,True
+DR-12880,Dan Reichenbach,Corporate,2024-05-28,2024-12-31,True
+EB-3975,Erica Bern,Corporate,2024-05-28,2024-12-31,True
+NS-8505,Neola Schneider,Consumer,2024-05-28,2024-12-31,True
+SF-20065,Sandra Flanagan,Consumer,2024-05-28,2024-12-31,True
+RA-19285,Ralph Arnett,Consumer,2024-05-28,2024-12-31,True
+LT-17110,Liz Thompson,Consumer,2024-05-28,2024-12-31,True
+BF-11170,Ben Ferrer,Home Office,2024-05-28,2024-12-31,True
+AR-825,Anthony Rawles,Corporate,2024-05-28,2024-12-31,True
+SD-20485,Shirley Daniels,Home Office,2024-05-28,2024-12-31,True
+GW-4605,Giulietta Weimer,Consumer,2024-05-28,2024-12-31,True
+DB-13120,David Bremer,Corporate,2024-05-28,2024-12-31,True
+JC-5775,John Castell,Consumer,2024-05-28,2024-12-31,True
+ND-8460,Neil Ducich,Corporate,2024-05-28,2024-12-31,True
+TC-11295,Toby Carlisle,Consumer,2024-05-28,2024-12-31,True
+DM-2955,Dario Medina,Corporate,2024-05-28,2024-12-31,True
+PJ-9015,Pauline Johnson,Consumer,2024-05-28,2024-12-31,True
+JH-5820,John Huston,Consumer,2024-05-28,2024-12-31,True
+ME-18010,Michelle Ellison,Corporate,2024-05-28,2024-12-31,True
+AH-10690,Anna Häberlin,Corporate,2024-05-28,2024-12-31,True
+RD-19660,Robert Dilbeck,Home Office,2024-05-28,2024-12-31,True
+CD-1980,Carol Darley,Consumer,2024-05-28,2024-12-31,True
+CL-2565,Clay Ludtke,Consumer,2024-05-28,2024-12-31,True
+MO-7800,Meg O'Connel,Home Office,2024-05-28,2024-12-31,True
+CR-2580,Clay Rozendal,Home Office,2024-05-28,2024-12-31,True
+TC-10980,Tamara Chand,Corporate,2024-05-28,2024-12-31,True
+RD-9900,Ruben Dartt,Consumer,2024-05-28,2024-12-31,True
+CS-12250,Chris Selesnick,Corporate,2024-05-28,2024-12-31,True
+CH-12070,Cathy Hwang,Home Office,2024-05-28,2024-12-31,True
+JF-15355,Jay Fein,Consumer,2024-05-28,2024-12-31,True
+AS-135,Adrian Shami,Home Office,2024-05-28,2024-12-31,True
+SP-20620,Stefania Perrino,Corporate,2024-05-28,2024-12-31,True
+EC-14050,Erin Creighton,Consumer,2024-05-28,2024-12-31,True
+IG-5085,Ivan Gibson,Consumer,2024-05-28,2024-12-31,True
+TB-21355,Todd Boyes,Corporate,2024-05-28,2024-12-31,True
+MH-17620,Matt Hagelstein,Corporate,2024-05-28,2024-12-31,True
+GT-14755,Guy Thornton,Consumer,2024-05-28,2024-12-31,True
+DF-13135,David Flashing,Consumer,2024-05-28,2024-12-31,True
+AS-240,Alan Shonely,Consumer,2024-05-28,2024-12-31,True
+PG-8820,Patrick Gardner,Consumer,2024-05-28,2024-12-31,True
+JS-6030,Joy Smith,Consumer,2024-05-28,2024-12-31,True
+SS-20590,Sonia Sunley,Consumer,2024-05-28,2024-12-31,True
+CS-2490,Cindy Schnelling,Corporate,2024-05-28,2024-12-31,True
+CM-2715,Craig Molinari,Corporate,2024-05-28,2024-12-31,True
+BM-1140,Becky Martin,Consumer,2024-05-28,2024-12-31,True
+RD-19720,Roger Demir,Consumer,2024-05-28,2024-12-31,True
+LD-17005,Lisa DeCherney,Consumer,2024-05-28,2024-12-31,True
+EB-3705,Ed Braxton,Corporate,2024-05-28,2024-12-31,True
+RH-19555,Ritsa Hightower,Consumer,2024-05-28,2024-12-31,True
+JP-6135,Julie Prescott,Home Office,2024-05-28,2024-12-31,True
+PB-9210,Phillip Breyer,Corporate,2024-05-28,2024-12-31,True
+LC-16960,Lindsay Castell,Home Office,2024-05-28,2024-12-31,True
+JC-15385,Jenna Caffey,Consumer,2024-05-28,2024-12-31,True
+IL-15100,Ivan Liston,Consumer,2024-05-28,2024-12-31,True
+SW-10245,Scot Wooten,Consumer,2024-05-28,2024-12-31,True
+CP-2340,Christine Phan,Corporate,2024-05-28,2024-12-31,True
+NS-18640,Noel Staavos,Corporate,2024-05-28,2024-12-31,True
+TR-21325,Toby Ritter,Consumer,2024-05-28,2024-12-31,True
+NF-8385,Natalie Fritzler,Consumer,2024-05-28,2024-12-31,True
+TZ-21580,Tracy Zic,Consumer,2024-05-28,2024-12-31,True
+TB-11055,Ted Butterfield,Consumer,2024-05-28,2024-12-31,True
+AJ-10795,Anthony Johnson,Corporate,2024-05-28,2024-12-31,True
+GH-14485,Gene Hale,Corporate,2024-05-28,2024-12-31,True
+AG-10300,Aleksandra Gannaway,Corporate,2024-05-28,2024-12-31,True
+EH-3945,Eric Hoffmann,Consumer,2024-05-28,2024-12-31,True
+JD-6150,Justin Deggeller,Corporate,2024-05-28,2024-12-31,True
+KH-16360,Katherine Hughes,Consumer,2024-05-28,2024-12-31,True
+JB-6045,Julia Barnett,Home Office,2024-05-28,2024-12-31,True
+AH-585,Angele Hood,Consumer,2024-05-28,2024-12-31,True
+MS-7530,MaryBeth Skach,Consumer,2024-05-28,2024-12-31,True
+HA-14905,Helen Abelman,Consumer,2024-05-28,2024-12-31,True
+JG-15310,Jason Gross,Corporate,2024-05-28,2024-12-31,True
+CD-1920,Carlos Daly,Consumer,2024-05-28,2024-12-31,True
+TC-21535,Tracy Collins,Home Office,2024-05-28,2024-12-31,True
+PB-9105,Peter Bühler,Consumer,2024-05-28,2024-12-31,True
+AR-10405,Allen Rosenblatt,Corporate,2024-05-28,2024-12-31,True
+NK-18490,Neil Knudson,Home Office,2024-05-28,2024-12-31,True
+MG-7695,Maureen Gnade,Consumer,2024-05-28,2024-12-31,True
+AJ-10945,Ashley Jarboe,Consumer,2024-05-28,2024-12-31,True
+RS-19420,Ricardo Sperren,Corporate,2024-05-28,2024-12-31,True
+SC-20770,Stewart Carmichael,Corporate,2024-05-28,2024-12-31,True
+LM-17065,Liz MacKendrick,Consumer,2024-05-28,2024-12-31,True
+DP-13000,Darren Powers,Consumer,2024-05-28,2024-12-31,True
+RD-9660,Robert Dilbeck,Home Office,2024-05-28,2024-12-31,True
+LB-16735,Larry Blacks,Consumer,2024-05-28,2024-12-31,True
+MZ-17515,Mary Zewe,Corporate,2024-05-28,2024-12-31,True
+ER-3855,Elpida Rittenbach,Corporate,2024-05-28,2024-12-31,True
+MS-17710,Maurice Satty,Consumer,2024-05-28,2024-12-31,True
+LC-6960,Lindsay Castell,Home Office,2024-05-28,2024-12-31,True
+GZ-14545,George Zrebassa,Corporate,2024-05-28,2024-12-31,True
+JK-5625,Jim Karlsson,Consumer,2024-05-28,2024-12-31,True
+JJ-15760,Joel Jenkins,Home Office,2024-05-28,2024-12-31,True
+CA-2265,Christina Anderson,Consumer,2024-05-28,2024-12-31,True
+CC-2220,Chris Cortes,Consumer,2024-05-28,2024-12-31,True
+KL-6555,Kelly Lampkin,Corporate,2024-05-28,2024-12-31,True
+CS-2175,Charles Sheldon,Corporate,2024-05-28,2024-12-31,True
+KL-16555,Kelly Lampkin,Corporate,2024-05-28,2024-12-31,True
+RD-9810,Ross DeVincentis,Home Office,2024-05-28,2024-12-31,True
+AJ-945,Ashley Jarboe,Consumer,2024-05-28,2024-12-31,True
+CC-2685,Craig Carroll,Consumer,2024-05-28,2024-12-31,True
+LO-17170,Lori Olson,Corporate,2024-05-28,2024-12-31,True
+DE-13255,Deanra Eno,Home Office,2024-05-28,2024-12-31,True
+RF-9345,Randy Ferguson,Corporate,2024-05-28,2024-12-31,True
+SC-20020,Sam Craven,Consumer,2024-05-28,2024-12-31,True
+DW-13585,Dorothy Wardle,Corporate,2024-05-28,2024-12-31,True
+EM-4065,Erin Mull,Consumer,2024-05-28,2024-12-31,True
+TD-20995,Tamara Dahlen,Consumer,2024-05-28,2024-12-31,True
+BD-11320,Bill Donatelli,Consumer,2024-05-28,2024-12-31,True
+CW-11905,Carl Weiss,Home Office,2024-05-28,2024-12-31,True
+CK-2325,Christine Kargatis,Home Office,2024-05-28,2024-12-31,True
+BP-11095,Bart Pistole,Corporate,2024-05-28,2024-12-31,True
+DV-3465,Dianna Vittorini,Consumer,2024-05-28,2024-12-31,True
+MY-7380,Maribeth Yedwab,Corporate,2024-05-28,2024-12-31,True
+PB-9150,Philip Brown,Consumer,2024-05-28,2024-12-31,True
+AG-10390,Allen Goldenen,Consumer,2024-05-28,2024-12-31,True
+KW-16570,Kelly Williams,Consumer,2024-05-28,2024-12-31,True
+JF-5190,Jamie Frazer,Consumer,2024-05-28,2024-12-31,True
+GB-14575,Giulietta Baptist,Consumer,2024-05-28,2024-12-31,True
+MR-7545,Mathew Reese,Home Office,2024-05-28,2024-12-31,True
+MO-17950,Michael Oakman,Consumer,2024-05-28,2024-12-31,True
+TA-11385,Tom Ashbrook,Home Office,2024-05-28,2024-12-31,True
+JM-5655,Jim Mitchum,Corporate,2024-05-28,2024-12-31,True
+JS-5880,John Stevenson,Consumer,2024-05-28,2024-12-31,True
+HP-14815,Harold Pawlan,Home Office,2024-05-28,2024-12-31,True
+CS-12400,Christopher Schild,Home Office,2024-05-28,2024-12-31,True
+DE-3255,Deanra Eno,Home Office,2024-05-28,2024-12-31,True
+JD-6015,Joy Daniels,Consumer,2024-05-28,2024-12-31,True
+CR-2730,Craig Reiter,Consumer,2024-05-28,2024-12-31,True
+RC-9960,Ryan Crowe,Consumer,2024-05-28,2024-12-31,True
+AO-10810,Anthony O'Donnell,Corporate,2024-05-28,2024-12-31,True
+TB-11250,Tim Brockman,Consumer,2024-05-28,2024-12-31,True
+RA-9285,Ralph Arnett,Consumer,2024-05-28,2024-12-31,True
+MG-8205,Mitch Gastineau,Corporate,2024-05-28,2024-12-31,True
+MY-8295,Muhammed Yedwab,Corporate,2024-05-28,2024-12-31,True
+SR-20425,Sharelle Roach,Home Office,2024-05-28,2024-12-31,True
+BT-1530,Bradley Talbott,Home Office,2024-05-28,2024-12-31,True
+LS-7245,Lynn Smith,Consumer,2024-05-28,2024-12-31,True
+AB-10255,Alejandro Ballentine,Home Office,2024-05-28,2024-12-31,True
+TH-21115,Thea Hudgings,Corporate,2024-05-28,2024-12-31,True
+LC-6885,Lena Creighton,Consumer,2024-05-28,2024-12-31,True
+AC-660,Anna Chung,Consumer,2024-05-28,2024-12-31,True
+EM-14095,Eudokia Martin,Corporate,2024-05-28,2024-12-31,True
+BO-11350,Bill Overfelt,Corporate,2024-05-28,2024-12-31,True
+DM-3015,Darrin Martin,Consumer,2024-05-28,2024-12-31,True
+DD-13570,Dorothy Dickinson,Consumer,2024-05-28,2024-12-31,True
+KN-16705,Kristina Nunn,Home Office,2024-05-28,2024-12-31,True
+HM-14980,Henry MacAllister,Consumer,2024-05-28,2024-12-31,True
+FM-4215,Filia McAdams,Corporate,2024-05-28,2024-12-31,True
+JO-15145,Jack O'Briant,Corporate,2024-05-28,2024-12-31,True
+TC-11535,Tracy Collins,Home Office,2024-05-28,2024-12-31,True
+JK-15205,Jamie Kunitz,Consumer,2024-05-28,2024-12-31,True
+DA-3450,Dianna Arnett,Home Office,2024-05-28,2024-12-31,True
+DB-12910,Daniel Byrd,Home Office,2024-05-28,2024-12-31,True
+EH-4005,Erica Hernandez,Home Office,2024-05-28,2024-12-31,True
+DN-13690,Duane Noonan,Consumer,2024-05-28,2024-12-31,True
+AS-10135,Adrian Shami,Home Office,2024-05-28,2024-12-31,True
+MC-18130,Mike Caudle,Corporate,2024-05-28,2024-12-31,True
+MM-18280,Muhammed MacIntyre,Corporate,2024-05-28,2024-12-31,True
+RL-9615,Rob Lucas,Consumer,2024-05-28,2024-12-31,True
+MA-7560,Matt Abelman,Home Office,2024-05-28,2024-12-31,True
+HG-4845,Harry Greene,Consumer,2024-05-28,2024-12-31,True
+PB-8805,Patrick Bzostek,Home Office,2024-05-28,2024-12-31,True
+RW-19630,Rob Williams,Corporate,2024-05-28,2024-12-31,True
+BT-11440,Bobby Trafton,Consumer,2024-05-28,2024-12-31,True
+JC-5385,Jenna Caffey,Consumer,2024-05-28,2024-12-31,True
+HR-4770,Hallie Redmond,Home Office,2024-05-28,2024-12-31,True
+DB-3615,Doug Bickford,Consumer,2024-05-28,2024-12-31,True
+JK-6120,Julie Kriz,Home Office,2024-05-28,2024-12-31,True
+SW-20455,Shaun Weien,Consumer,2024-05-28,2024-12-31,True
+GH-4425,Gary Hwang,Consumer,2024-05-28,2024-12-31,True
+GB-4575,Giulietta Baptist,Consumer,2024-05-28,2024-12-31,True
+PA-19060,Pete Armstrong,Home Office,2024-05-28,2024-12-31,True
+CA-2775,Cynthia Arntzen,Consumer,2024-05-28,2024-12-31,True
+CV-12295,Christina VanderZanden,Consumer,2024-05-28,2024-12-31,True
+PO-9180,Philisse Overcash,Home Office,2024-05-28,2024-12-31,True
+NC-18535,Nick Crebassa,Corporate,2024-05-28,2024-12-31,True
+GZ-4470,Gary Zandusky,Consumer,2024-05-28,2024-12-31,True
+AM-360,Alice McCarthy,Corporate,2024-05-28,2024-12-31,True
+AA-480,Andrew Allen,Consumer,2024-05-28,2024-12-31,True
+TB-21595,Troy Blackwell,Consumer,2024-05-28,2024-12-31,True
+KH-16630,Ken Heidel,Corporate,2024-05-28,2024-12-31,True
+TS-21655,Trudy Schmidt,Consumer,2024-05-28,2024-12-31,True
+CD-11980,Carol Darley,Consumer,2024-05-28,2024-12-31,True
+DB-13360,Dennis Bolton,Home Office,2024-05-28,2024-12-31,True
+SK-9990,Sally Knutson,Consumer,2024-05-28,2024-12-31,True
+PT-19090,Pete Takahito,Consumer,2024-05-28,2024-12-31,True
+EH-13990,Erica Hackney,Consumer,2024-05-28,2024-12-31,True
+ME-17725,Max Engle,Consumer,2024-05-28,2024-12-31,True
+ZD-21925,Zuschuss Donatelli,Consumer,2024-05-28,2024-12-31,True
+MW-8235,Mitch Willingham,Corporate,2024-05-28,2024-12-31,True
+BP-11050,Barry Pond,Corporate,2024-05-28,2024-12-31,True
+RC-19960,Ryan Crowe,Consumer,2024-05-28,2024-12-31,True
+PN-8775,Parhena Norris,Home Office,2024-05-28,2024-12-31,True
+CB-12535,Claudia Bergmann,Corporate,2024-05-28,2024-12-31,True
+LR-7035,Lisa Ryan,Corporate,2024-05-28,2024-12-31,True
+JG-5160,James Galang,Consumer,2024-05-28,2024-12-31,True
+SC-10845,Sung Chung,Consumer,2024-05-28,2024-12-31,True
+DK-13225,Dean Katz,Corporate,2024-05-28,2024-12-31,True
+CG-2520,Claire Gute,Consumer,2024-05-28,2024-12-31,True
+RS-19870,Roy Skaria,Home Office,2024-05-28,2024-12-31,True
+DK-2835,Damala Kotsonis,Corporate,2024-05-28,2024-12-31,True
+CM-2385,Christopher Martinez,Consumer,2024-05-28,2024-12-31,True
+JE-5745,Joel Eaton,Consumer,2024-05-28,2024-12-31,True
+CA-1965,Carol Adams,Corporate,2024-05-28,2024-12-31,True
+Dl-3600,Dorris liebe,Corporate,2024-05-28,2024-12-31,True
+DL-2865,Dan Lawera,Consumer,2024-05-28,2024-12-31,True
+CM-2445,Chuck Magee,Consumer,2024-05-28,2024-12-31,True
+DB-13270,Deborah Brumfield,Home Office,2024-05-28,2024-12-31,True
+EB-4110,Eugene Barchas,Consumer,2024-05-28,2024-12-31,True
+BD-11620,Brian DeCherney,Consumer,2024-05-28,2024-12-31,True
+MN-7935,Michael Nguyen,Consumer,2024-05-28,2024-12-31,True
+DB-2910,Daniel Byrd,Home Office,2024-05-28,2024-12-31,True
+LH-7155,Logan Haushalter,Consumer,2024-05-28,2024-12-31,True
+JS-5940,Joni Sundaresam,Home Office,2024-05-28,2024-12-31,True
+GH-4410,Gary Hansen,Home Office,2024-05-28,2024-12-31,True
+SC-10380,Shahid Collister,Consumer,2024-05-28,2024-12-31,True
+SL-10155,Sara Luxemburg,Home Office,2024-05-28,2024-12-31,True
+EK-3795,Eileen Kiefer,Home Office,2024-05-28,2024-12-31,True
+PH-8790,Patricia Hirasaki,Home Office,2024-05-28,2024-12-31,True
+HD-4785,Harold Dahlen,Home Office,2024-05-28,2024-12-31,True
+CM-2190,Charlotte Melton,Consumer,2024-05-28,2024-12-31,True
+AR-570,Anemone Ratner,Consumer,2024-05-28,2024-12-31,True
+BT-1305,Beth Thompson,Home Office,2024-05-28,2024-12-31,True
+MH-7785,Maya Herman,Corporate,2024-05-28,2024-12-31,True
+SC-10260,Scott Cohen,Corporate,2024-05-28,2024-12-31,True
+LW-7125,Liz Willingham,Consumer,2024-05-28,2024-12-31,True
+SM-10905,Susan MacKendrick,Consumer,2024-05-28,2024-12-31,True
+TT-21265,Tim Taslimi,Corporate,2024-05-28,2024-12-31,True
+EJ-3720,Ed Jacobs,Consumer,2024-05-28,2024-12-31,True
+RS-9765,Roland Schwarz,Corporate,2024-05-28,2024-12-31,True
+EM-4095,Eudokia Martin,Corporate,2024-05-28,2024-12-31,True
+AJ-10960,Astrea Jones,Consumer,2024-05-28,2024-12-31,True
+BD-1770,Bryan Davis,Consumer,2024-05-28,2024-12-31,True
+BE-1410,Bobby Elias,Consumer,2024-05-28,2024-12-31,True
+KC-6255,Karen Carlisle,Corporate,2024-05-28,2024-12-31,True
+DV-3045,Darrin Van Huff,Corporate,2024-05-28,2024-12-31,True
+JD-5895,Jonathan Doherty,Corporate,2024-05-28,2024-12-31,True
+JM-5865,John Murray,Consumer,2024-05-28,2024-12-31,True
+JK-5205,Jamie Kunitz,Consumer,2024-05-28,2024-12-31,True
+CL-2700,Craig Leslie,Home Office,2024-05-28,2024-12-31,True
+GG-4650,Greg Guthrie,Corporate,2024-05-28,2024-12-31,True
+LS-6945,Linda Southworth,Corporate,2024-05-28,2024-12-31,True
+JL-5850,John Lucas,Consumer,2024-05-28,2024-12-31,True
+VP-11760,Victoria Pisteka,Corporate,2024-05-28,2024-12-31,True
+NF-8595,Nicole Fjeld,Home Office,2024-05-28,2024-12-31,True
+LE-16810,Laurel Elliston,Consumer,2024-05-28,2024-12-31,True
+JJ-5445,Jennifer Jackson,Consumer,2024-05-28,2024-12-31,True
+CS-2130,Chad Sievert,Consumer,2024-05-28,2024-12-31,True
+BM-1575,Brendan Murry,Corporate,2024-05-28,2024-12-31,True
+AC-615,Ann Chong,Corporate,2024-05-28,2024-12-31,True
+HG-5025,Hunter Glantz,Consumer,2024-05-28,2024-12-31,True
+TB-11400,Tom Boeckenhauer,Consumer,2024-05-28,2024-12-31,True
+RB-9330,Randy Bradley,Consumer,2024-05-28,2024-12-31,True
+JP-5460,Jennifer Patt,Corporate,2024-05-28,2024-12-31,True
+JL-5175,James Lanier,Home Office,2024-05-28,2024-12-31,True
+AA-315,Alex Avila,Consumer,2024-05-28,2024-12-31,True
+TS-11370,Todd Sumrall,Corporate,2024-05-28,2024-12-31,True
+SS-10140,Saphhira Shifley,Corporate,2024-05-28,2024-12-31,True
+DP-3000,Darren Powers,Consumer,2024-05-28,2024-12-31,True
+JS-5685,Jim Sink,Corporate,2024-05-28,2024-12-31,True
+PW-19240,Pierre Wener,Consumer,2024-05-28,2024-12-31,True
+NW-8400,Natalie Webber,Consumer,2024-05-28,2024-12-31,True
+TS-11340,Toby Swindell,Consumer,2024-05-28,2024-12-31,True
+JH-5985,Joseph Holt,Consumer,2024-05-28,2024-12-31,True
+NG-8355,Nat Gilpin,Corporate,2024-05-28,2024-12-31,True
+FP-14320,Frank Preis,Consumer,2024-05-28,2024-12-31,True
+SH-20395,Shahid Hopkins,Consumer,2024-05-28,2024-12-31,True
+JP-16135,Julie Prescott,Home Office,2024-05-28,2024-12-31,True
+JM-5250,Janet Martin,Consumer,2024-05-28,2024-12-31,True
+MA-7995,Michelle Arnett,Home Office,2024-05-28,2024-12-31,True
+DR-2940,Daniel Raglin,Home Office,2024-05-28,2024-12-31,True
+BF-1020,Barry Französisch,Corporate,2024-05-28,2024-12-31,True
+CS-2400,Christopher Schild,Home Office,2024-05-28,2024-12-31,True
+JM-15535,Jessica Myrick,Consumer,2024-05-28,2024-12-31,True
+JS-15940,Joni Sundaresam,Home Office,2024-05-28,2024-12-31,True
+AF-870,Art Ferguson,Consumer,2024-05-28,2024-12-31,True
+NP-8670,Nora Paige,Consumer,2024-05-28,2024-12-31,True
+SU-10665,Stephanie Ulpright,Home Office,2024-05-28,2024-12-31,True
+RD-9585,Rob Dowd,Consumer,2024-05-28,2024-12-31,True
+TP-21565,Tracy Poddar,Corporate,2024-05-28,2024-12-31,True
+LA-6780,Laura Armstrong,Corporate,2024-05-28,2024-12-31,True
+LH-7020,Lisa Hazard,Consumer,2024-05-28,2024-12-31,True
+JE-5475,Jeremy Ellison,Consumer,2024-05-28,2024-12-31,True
+ES-4080,Erin Smith,Corporate,2024-05-28,2024-12-31,True
+EM-4140,Eugene Moren,Home Office,2024-05-28,2024-12-31,True
+DS-13030,Darrin Sayre,Home Office,2024-05-28,2024-12-31,True
+ZD-11925,Zuschuss Donatelli,Consumer,2024-05-28,2024-12-31,True
+JO-5550,Jesus Ocampo,Home Office,2024-05-28,2024-12-31,True
+TB-11595,Troy Blackwell,Consumer,2024-05-28,2024-12-31,True
+GM-4500,Gene McClure,Consumer,2024-05-28,2024-12-31,True
+DD-3570,Dorothy Dickinson,Consumer,2024-05-28,2024-12-31,True
+FH-4365,Fred Hopkins,Corporate,2024-05-28,2024-12-31,True
+MK-18160,Mike Kennedy,Consumer,2024-05-28,2024-12-31,True
+NM-8445,Nathan Mautz,Home Office,2024-05-28,2024-12-31,True
+JF-5355,Jay Fein,Consumer,2024-05-28,2024-12-31,True
+BF-975,Barbara Fisher,Corporate,2024-05-28,2024-12-31,True
+SS-20875,Sung Shariari,Consumer,2024-05-28,2024-12-31,True
+PF-9165,Philip Fox,Consumer,2024-05-28,2024-12-31,True
+SV-10365,Seth Vernon,Consumer,2024-05-28,2024-12-31,True
+BB-10990,Barry Blumstein,Corporate,2024-05-28,2024-12-31,True
+PW-9240,Pierre Wener,Consumer,2024-05-28,2024-12-31,True
+JF-15490,Jeremy Farry,Consumer,2024-05-28,2024-12-31,True
+CW-1905,Carl Weiss,Home Office,2024-05-28,2024-12-31,True
+LC-7140,Logan Currie,Consumer,2024-05-28,2024-12-31,True
+HK-4890,Heather Kirkland,Corporate,2024-05-28,2024-12-31,True
+BT-1440,Bobby Trafton,Consumer,2024-05-28,2024-12-31,True
+RD-19810,Ross DeVincentis,Home Office,2024-05-28,2024-12-31,True
+KL-6645,Ken Lonsdale,Consumer,2024-05-28,2024-12-31,True
+VG-11805,Vivek Grady,Corporate,2024-05-28,2024-12-31,True
+PF-9225,Phillip Flathmann,Consumer,2024-05-28,2024-12-31,True
+AB-15,Aaron Bergman,Consumer,2024-05-28,2024-12-31,True
+LW-6990,Lindsay Williams,Corporate,2024-05-28,2024-12-31,True
+PS-8970,Paul Stevenson,Home Office,2024-05-28,2024-12-31,True
+LW-17125,Liz Willingham,Consumer,2024-05-28,2024-12-31,True
+MC-7590,Matt Collister,Corporate,2024-05-28,2024-12-31,True
+JO-15550,Jesus Ocampo,Home Office,2024-05-28,2024-12-31,True
+SJ-10125,Sanjit Jacobs,Home Office,2024-05-28,2024-12-31,True
+SS-20515,Shirley Schmidt,Home Office,2024-05-28,2024-12-31,True
+RB-19645,Robert Barroso,Corporate,2024-05-28,2024-12-31,True
+BP-1050,Barry Pond,Corporate,2024-05-28,2024-12-31,True
+PG-8895,Paul Gonzalez,Consumer,2024-05-28,2024-12-31,True
+RM-19750,Roland Murray,Consumer,2024-05-28,2024-12-31,True
+KM-6225,Kalyca Meade,Corporate,2024-05-28,2024-12-31,True
+AH-120,Adrian Hane,Home Office,2024-05-28,2024-12-31,True
+BM-1785,Bryan Mills,Consumer,2024-05-28,2024-12-31,True
+NR-8550,Nick Radford,Consumer,2024-05-28,2024-12-31,True
+EB-14170,Evan Bailliet,Consumer,2024-05-28,2024-12-31,True
+PB-19150,Philip Brown,Consumer,2024-05-28,2024-12-31,True
+TP-11130,Theone Pippenger,Consumer,2024-05-28,2024-12-31,True
+KN-6450,Kean Nguyen,Corporate,2024-05-28,2024-12-31,True
+RD-9720,Roger Demir,Consumer,2024-05-28,2024-12-31,True
+RS-9870,Roy Skaria,Home Office,2024-05-28,2024-12-31,True
+EB-3840,Ellis Ballard,Corporate,2024-05-28,2024-12-31,True
+TC-21475,Tony Chapman,Home Office,2024-05-28,2024-12-31,True
+BH-1710,Brosina Hoffman,Consumer,2024-05-28,2024-12-31,True
+MH-7620,Matt Hagelstein,Corporate,2024-05-28,2024-12-31,True
+PT-9090,Pete Takahito,Consumer,2024-05-28,2024-12-31,True
+DC-2850,Dan Campbell,Consumer,2024-05-28,2024-12-31,True
+AG-900,Arthur Gainer,Consumer,2024-05-28,2024-12-31,True
+DC-12850,Dan Campbell,Consumer,2024-05-28,2024-12-31,True
+JF-5565,Jill Fjeld,Consumer,2024-05-28,2024-12-31,True
+SR-10740,Steven Roelle,Home Office,2024-05-28,2024-12-31,True
+MK-7905,Michael Kennedy,Corporate,2024-05-28,2024-12-31,True
+JK-5370,Jay Kimmel,Consumer,2024-05-28,2024-12-31,True
+GM-4680,Greg Matthias,Consumer,2024-05-28,2024-12-31,True
+PC-9000,Pauline Chand,Home Office,2024-05-28,2024-12-31,True
+DL-3315,Delfina Latchford,Consumer,2024-05-28,2024-12-31,True
+JL-5235,Janet Lee,Consumer,2024-05-28,2024-12-31,True
+BB-990,Barry Blumstein,Corporate,2024-05-28,2024-12-31,True
+RP-9390,Resi Pölking,Consumer,2024-05-28,2024-12-31,True
+ES-4020,Erica Smith,Consumer,2024-05-28,2024-12-31,True
+MH-7455,Mark Hamilton,Consumer,2024-05-28,2024-12-31,True
+JD-5790,John Dryer,Consumer,2024-05-28,2024-12-31,True
+DB-3270,Deborah Brumfield,Home Office,2024-05-28,2024-12-31,True
+PK-9075,Pete Kriz,Consumer,2024-05-28,2024-12-31,True
+NM-8520,Neoma Murray,Consumer,2024-05-28,2024-12-31,True
+MO-7500,Mary O'Rourke,Consumer,2024-05-28,2024-12-31,True
+SG-10890,Susan Gilcrest,Corporate,2024-05-28,2024-12-31,True
+MF-8250,Monica Federle,Corporate,2024-05-28,2024-12-31,True
+JG-5310,Jason Gross,Corporate,2024-05-28,2024-12-31,True
+YS-11880,Yana Sorensen,Corporate,2024-05-28,2024-12-31,True
+FC-4245,Frank Carlisle,Home Office,2024-05-28,2024-12-31,True
+BW-1110,Bart Watters,Corporate,2024-05-28,2024-12-31,True
+BS-1590,Brendan Sweed,Corporate,2024-05-28,2024-12-31,True
+CS-2460,Chuck Sachs,Consumer,2024-05-28,2024-12-31,True
+MH-7290,Marc Harrigan,Home Office,2024-05-28,2024-12-31,True
+KE-6420,Katrina Edelman,Corporate,2024-05-28,2024-12-31,True
+AJ-780,Anthony Jacobs,Corporate,2024-05-28,2024-12-31,True
+MM-7920,Michael Moore,Consumer,2024-05-28,2024-12-31,True
+ML-8265,Muhammed Lee,Consumer,2024-05-28,2024-12-31,True
+RR-9315,Ralph Ritter,Consumer,2024-05-28,2024-12-31,True
+JF-5490,Jeremy Farry,Consumer,2024-05-28,2024-12-31,True
+AG-765,Anthony Garverick,Home Office,2024-05-28,2024-12-31,True
+DS-3030,Darrin Sayre,Home Office,2024-05-28,2024-12-31,True
+AH-75,Adam Hart,Corporate,2024-05-28,2024-12-31,True
+NB-18580,Nicole Brennan,Corporate,2024-05-28,2024-12-31,True
+KD-6270,Karen Daniels,Consumer,2024-05-28,2024-12-31,True
+MJ-7740,Max Jones,Consumer,2024-05-28,2024-12-31,True
+DM-3525,Don Miller,Corporate,2024-05-28,2024-12-31,True
+GH-4665,Greg Hansen,Consumer,2024-05-28,2024-12-31,True
+RM-9675,Robert Marley,Home Office,2024-05-28,2024-12-31,True
+TS-11610,Troy Staebel,Consumer,2024-05-28,2024-12-31,True
+PR-8880,Patrick Ryan,Consumer,2024-05-28,2024-12-31,True
+HP-4815,Harold Pawlan,Home Office,2024-05-28,2024-12-31,True
+EC-4050,Erin Creighton,Consumer,2024-05-28,2024-12-31,True
+BF-1005,Barry Franz,Home Office,2024-05-28,2024-12-31,True
+SC-10050,Sample Company A,Home Office,2024-05-28,2024-12-31,True
+DM-3345,Denise Monton,Corporate,2024-05-28,2024-12-31,True
+CD-2280,Christina DeMoss,Consumer,2024-05-28,2024-12-31,True
+BP-1095,Bart Pistole,Corporate,2024-05-28,2024-12-31,True
+TC-11475,Tony Chapman,Home Office,2024-05-28,2024-12-31,True
+DW-3540,Don Weiss,Consumer,2024-05-28,2024-12-31,True
+BE-1455,Brad Eason,Home Office,2024-05-28,2024-12-31,True
+AH-195,Alan Haines,Corporate,2024-05-28,2024-12-31,True
+DO-3645,Doug O'Connell,Consumer,2024-05-28,2024-12-31,True
+CA-2055,Cathy Armstrong,Home Office,2024-05-28,2024-12-31,True
+LP-7080,Liz Pelletier,Consumer,2024-05-28,2024-12-31,True
+BN-1515,Bradley Nguyen,Consumer,2024-05-28,2024-12-31,True
+NK-8490,Neil Knudson,Home Office,2024-05-28,2024-12-31,True
+AR-510,Andrew Roberts,Consumer,2024-05-28,2024-12-31,True
+VM-11835,Vivian Mathis,Consumer,2024-05-28,2024-12-31,True
+TH-11115,Thea Hudgings,Corporate,2024-05-28,2024-12-31,True
+AB-165,Alan Barnes,Consumer,2024-05-28,2024-12-31,True
+LB-6735,Larry Blacks,Consumer,2024-05-28,2024-12-31,True
+GA-4515,George Ashbrook,Consumer,2024-05-28,2024-12-31,True
+DJ-3630,Doug Jacobs,Consumer,2024-05-28,2024-12-31,True
+LT-6765,Larry Tron,Consumer,2024-05-28,2024-12-31,True
+SG-10080,Sandra Glassco,Consumer,2024-05-28,2024-12-31,True
+TB-11175,Thomas Boland,Corporate,2024-05-28,2024-12-31,True
+AP-915,Arthur Prichep,Consumer,2024-05-28,2024-12-31,True
+ON-8715,Odella Nelson,Corporate,2024-05-28,2024-12-31,True
+SB-10290,Sean Braxton,Corporate,2024-05-28,2024-12-31,True
+AJ-795,Anthony Johnson,Corporate,2024-05-28,2024-12-31,True
+TP-11565,Tracy Poddar,Corporate,2024-05-28,2024-12-31,True
+ML-8040,Michelle Lonsdale,Corporate,2024-05-28,2024-12-31,True
+LC-6870,Lena Cacioppo,Consumer,2024-05-28,2024-12-31,True
+AB-105,Adrian Barton,Consumer,2024-05-28,2024-12-31,True
+AW-840,Anthony Witt,Consumer,2024-05-28,2024-12-31,True
+JO-5280,Jas O'Carroll,Consumer,2024-05-28,2024-12-31,True
+ME-7320,Maria Etezadi,Home Office,2024-05-28,2024-12-31,True
+SW-10455,Shaun Weien,Consumer,2024-05-28,2024-12-31,True
+LP-7095,Liz Preis,Consumer,2024-05-28,2024-12-31,True
+DW-3195,David Wiener,Corporate,2024-05-28,2024-12-31,True
+SC-10770,Stewart Carmichael,Corporate,2024-05-28,2024-12-31,True
+HE-4800,Harold Engle,Corporate,2024-05-28,2024-12-31,True
+DL-3495,Dionis Lloyd,Corporate,2024-05-28,2024-12-31,True
+EJ-4155,Eva Jacobs,Consumer,2024-05-28,2024-12-31,True
+JH-6180,Justin Hirsh,Consumer,2024-05-28,2024-12-31,True
+DK-3150,David Kendrick,Corporate,2024-05-28,2024-12-31,True
+XP-11865,Xylona Preis,Consumer,2024-05-28,2024-12-31,True
+KT-6480,Kean Thornton,Consumer,2024-05-28,2024-12-31,True
+MB-8085,Mick Brown,Consumer,2024-05-28,2024-12-31,True
+AR-345,Alex Russell,Corporate,2024-05-28,2024-12-31,True
+BD-1320,Bill Donatelli,Consumer,2024-05-28,2024-12-31,True
+DP-3165,David Philippe,Consumer,2024-05-28,2024-12-31,True
+KD-6495,Keith Dawkins,Corporate,2024-05-28,2024-12-31,True
+CK-2595,Clytie Kelty,Consumer,2024-05-28,2024-12-31,True
+SB-10170,Sarah Bern,Consumer,2024-05-28,2024-12-31,True
+JJ-5760,Joel Jenkins,Home Office,2024-05-28,2024-12-31,True
+GH-4485,Gene Hale,Corporate,2024-05-28,2024-12-31,True
+DB-3555,Dorothy Badders,Corporate,2024-05-28,2024-12-31,True
+LB-6795,Laurel Beltran,Home Office,2024-05-28,2024-12-31,True
+KT-6465,Kean Takahito,Consumer,2024-05-28,2024-12-31,True
+GA-4725,Guy Armstrong,Consumer,2024-05-28,2024-12-31,True
+DK-3090,Dave Kipp,Consumer,2024-05-28,2024-12-31,True
+SS-10590,Sonia Sunley,Consumer,2024-05-28,2024-12-31,True
+SD-10485,Shirley Daniels,Home Office,2024-05-28,2024-12-31,True
+TS-21085,Thais Sissman,Consumer,2024-05-28,2024-12-31,True
+RA-9945,Ryan Akin,Consumer,2024-05-28,2024-12-31,True
+JO-5145,Jack O'Briant,Corporate,2024-05-28,2024-12-31,True
+LW-7215,Luke Weiss,Consumer,2024-05-28,2024-12-31,True
+RB-9645,Robert Barroso,Corporate,2024-05-28,2024-12-31,True
+MV-7485,Mark Van Huff,Consumer,2024-05-28,2024-12-31,True
+BW-1200,Ben Wallace,Consumer,2024-05-28,2024-12-31,True
+CC-2610,Corey Catlett,Corporate,2024-05-28,2024-12-31,True
+BD-1560,Brendan Dodson,Home Office,2024-05-28,2024-12-31,True
+CS-2505,Cindy Stewart,Consumer,2024-05-28,2024-12-31,True
+VT-11700,Valerie Takahito,Home Office,2024-05-28,2024-12-31,True
+MC-7845,Michael Chen,Consumer,2024-05-28,2024-12-31,True
+KH-6690,Kristen Hastings,Corporate,2024-05-28,2024-12-31,True
+VS-11820,Vivek Sundaresam,Consumer,2024-05-28,2024-12-31,True
+NF-8475,Neil Französisch,Home Office,2024-05-28,2024-12-31,True
+TB-11190,Thomas Brumley,Home Office,2024-05-28,2024-12-31,True
+TS-11205,Thomas Seio,Corporate,2024-05-28,2024-12-31,True
+TD-10995,Tamara Dahlen,Consumer,2024-05-28,2024-12-31,True
+EB-3750,Edward Becker,Corporate,2024-05-28,2024-12-31,True
+AH-690,Anna Häberlin,Corporate,2024-05-28,2024-12-31,True
+TB-11280,Toby Braunhardt,Consumer,2024-05-28,2024-12-31,True
+AM-705,Anne McFarland,Consumer,2024-05-28,2024-12-31,True
+BD-1620,Brian DeCherney,Consumer,2024-05-28,2024-12-31,True
+KF-6285,Karen Ferguson,Home Office,2024-05-28,2024-12-31,True
+BE-1335,Bill Eplett,Home Office,2024-05-28,2024-12-31,True
+HA-4905,Helen Abelman,Consumer,2024-05-28,2024-12-31,True
+ND-8370,Natalie DeCherney,Consumer,2024-05-28,2024-12-31,True
+AA-645,Anna Andreadi,Consumer,2024-05-28,2024-12-31,True
+CC-2430,Chuck Clark,Home Office,2024-05-28,2024-12-31,True
+PL-8925,Paul Lucas,Home Office,2024-05-28,2024-12-31,True
+SO-10335,Sean O'Donnell,Consumer,2024-05-28,2024-12-31,True
+AY-555,Andy Yotov,Corporate,2024-05-28,2024-12-31,True
+JB-6000,Joy Bell-,Consumer,2024-05-28,2024-12-31,True
+SN-10560,Skye Norling,Home Office,2024-05-28,2024-12-31,True
+AH-465,Amy Hunt,Consumer,2024-05-28,2024-12-31,True
+HW-4935,Helen Wasserman,Corporate,2024-05-28,2024-12-31,True
+MC-7425,Mark Cousins,Corporate,2024-05-28,2024-12-31,True
+BT-1680,Brian Thompson,Consumer,2024-05-28,2024-12-31,True
+MG-7650,Matthew Grinstein,Home Office,2024-05-28,2024-12-31,True
+CB-2415,Christy Brittain,Consumer,2024-05-28,2024-12-31,True
+CK-2760,Cyma Kinney,Corporate,2024-05-28,2024-12-31,True
+AG-330,Alex Grayson,Consumer,2024-05-28,2024-12-31,True
+MK-8160,Mike Kennedy,Consumer,2024-05-28,2024-12-31,True
+NC-8625,Noah Childs,Corporate,2024-05-28,2024-12-31,True
+MO-7950,Michael Oakman,Consumer,2024-05-28,2024-12-31,True
+HF-4995,Herbert Flentye,Consumer,2024-05-28,2024-12-31,True
+SJ-10215,Sarah Jordon,Consumer,2024-05-28,2024-12-31,True
+AO-810,Anthony O'Donnell,Corporate,2024-05-28,2024-12-31,True
+RM-9375,Raymond Messe,Consumer,2024-05-28,2024-12-31,True
+MM-8055,Michelle Moray,Consumer,2024-05-28,2024-12-31,True
+DN-3690,Duane Noonan,Consumer,2024-05-28,2024-12-31,True
+EB-3930,Eric Barreto,Consumer,2024-05-28,2024-12-31,True
+NH-8610,Nicole Hansen,Corporate,2024-05-28,2024-12-31,True
+EL-3735,Ed Ludwig,Home Office,2024-05-28,2024-12-31,True
+PS-8760,Pamela Stobb,Consumer,2024-05-28,2024-12-31,True
+ST-10530,Shui Tom,Consumer,2024-05-28,2024-12-31,True
+RH-9510,Rick Huthwaite,Home Office,2024-05-28,2024-12-31,True
+BD-1605,Brian Dahlen,Consumer,2024-05-28,2024-12-31,True
+SC-10440,Shaun Chance,Corporate,2024-05-28,2024-12-31,True
+CG-2040,Catherine Glotzbach,Home Office,2024-05-28,2024-12-31,True
+TG-11310,Toby Gnade,Consumer,2024-05-28,2024-12-31,True
+FO-4305,Frank Olsen,Consumer,2024-05-28,2024-12-31,True
+CS-1950,Carlos Soltero,Consumer,2024-05-28,2024-12-31,True
+LE-6810,Laurel Elliston,Consumer,2024-05-28,2024-12-31,True
+DR-2880,Dan Reichenbach,Corporate,2024-05-28,2024-12-31,True
+JR-5700,Jocasta Rupert,Consumer,2024-05-28,2024-12-31,True
+MS-7710,Maurice Satty,Consumer,2024-05-28,2024-12-31,True
+PM-8940,Paul MacIntyre,Consumer,2024-05-28,2024-12-31,True
+AZ-750,Annie Zypern,Consumer,2024-05-28,2024-12-31,True
+AA-375,Allen Armold,Consumer,2024-05-28,2024-12-31,True
+FM-4290,Frank Merwin,Home Office,2024-05-28,2024-12-31,True
+CR-2820,Cyra Reiten,Home Office,2024-05-28,2024-12-31,True
+VB-11745,Victoria Brennan,Corporate,2024-05-28,2024-12-31,True
+RH-19600,Rob Haberlin,Consumer,2024-05-28,2024-12-31,True
+KH-6330,Katharine Harms,Corporate,2024-05-28,2024-12-31,True
+ME-7725,Max Engle,Consumer,2024-05-28,2024-12-31,True
+FA-4230,Frank Atkinson,Corporate,2024-05-28,2024-12-31,True
+GM-4455,Gary Mitchum,Home Office,2024-05-28,2024-12-31,True
+KH-6510,Keith Herrera,Consumer,2024-05-28,2024-12-31,True
+CD-2790,Cynthia Delaney,Home Office,2024-05-28,2024-12-31,True
+NB-8580,Nicole Brennan,Corporate,2024-05-28,2024-12-31,True
+CS-2250,Chris Selesnick,Corporate,2024-05-28,2024-12-31,True
+SP-10920,Susan Pistek,Consumer,2024-05-28,2024-12-31,True
+TH-11100,Thea Hendricks,Consumer,2024-05-28,2024-12-31,True
+DC-3285,Debra Catini,Consumer,2024-05-28,2024-12-31,True
+CM-2655,Corinna Mitchell,Home Office,2024-05-28,2024-12-31,True
+RF-9735,Roland Fjeld,Consumer,2024-05-28,2024-12-31,True
+LH-6750,Larry Hughes,Consumer,2024-05-28,2024-12-31,True
+JM-5265,Janet Molinari,Corporate,2024-05-28,2024-12-31,True
+CS-1845,Cari Sayre,Corporate,2024-05-28,2024-12-31,True
+CS-1860,Cari Schnelling,Consumer,2024-05-28,2024-12-31,True
+BT-1485,Brad Thomas,Home Office,2024-05-28,2024-12-31,True
+KB-6240,Karen Bern,Corporate,2024-05-28,2024-12-31,True
+KB-6600,Ken Brennan,Corporate,2024-05-28,2024-12-31,True
+LS-7230,Lycoris Saunders,Consumer,2024-05-28,2024-12-31,True
+MS-7365,Maribeth Schnelling,Consumer,2024-05-28,2024-12-31,True
+BG-1740,Bruce Geld,Consumer,2024-05-28,2024-12-31,True
+HJ-4875,Heather Jas,Home Office,2024-05-28,2024-12-31,True
+LR-6915,Lena Radford,Consumer,2024-05-28,2024-12-31,True
+JW-6075,Julia West,Consumer,2024-05-28,2024-12-31,True
+DJ-3420,Denny Joy,Corporate,2024-05-28,2024-12-31,True
+SP-10650,Stephanie Phelps,Corporate,2024-05-28,2024-12-31,True
+VM-21835,Vivian Mathis,Consumer,2024-05-28,2024-12-31,True
+CM-1815,Candace McMahon,Corporate,2024-05-28,2024-12-31,True
+MH-8025,Michelle Huthwaite,Consumer,2024-05-28,2024-12-31,True
+RD-9480,Rick Duston,Consumer,2024-05-28,2024-12-31,True
+PW-9030,Pauline Webber,Corporate,2024-05-28,2024-12-31,True
+EB-4170,Evan Bailliet,Consumer,2024-05-28,2024-12-31,True
+SM-10950,Suzanne McNair,Corporate,2024-05-28,2024-12-31,True
+NP-8325,Naresj Patel,Consumer,2024-05-28,2024-12-31,True
+MP-8175,Mike Pelletier,Home Office,2024-05-28,2024-12-31,True
+CM-2160,Charles McCrossin,Consumer,2024-05-28,2024-12-31,True
+NP-8700,Nora Preis,Consumer,2024-05-28,2024-12-31,True
+BP-1185,Ben Peterman,Corporate,2024-05-28,2024-12-31,True
+SW-10755,Steven Ward,Corporate,2024-05-28,2024-12-31,True
+AC-450,Amy Cox,Consumer,2024-05-28,2024-12-31,True
+SE-10110,Sanjit Engle,Consumer,2024-05-28,2024-12-31,True
+BS-1365,Bill Shonely,Corporate,2024-05-28,2024-12-31,True
+RM-9750,Roland Murray,Consumer,2024-05-28,2024-12-31,True
+BT-1395,Bill Tyler,Corporate,2024-05-28,2024-12-31,True
+BP-1155,Becky Pak,Consumer,2024-05-28,2024-12-31,True
+GT-4635,Grant Thornton,Corporate,2024-05-28,2024-12-31,True
+CM-1935,Carlos Meador,Consumer,2024-05-28,2024-12-31,True
+RE-9405,Ricardo Emerson,Consumer,2024-05-28,2024-12-31,True
+KS-6300,Karen Seio,Corporate,2024-05-28,2024-12-31,True
+TS-11160,Theresa Swint,Corporate,2024-05-28,2024-12-31,True
+ML-7395,Marina Lichtenstein,Corporate,2024-05-28,2024-12-31,True
+BF-1170,Ben Ferrer,Home Office,2024-05-28,2024-12-31,True
+NS-8640,Noel Staavos,Corporate,2024-05-28,2024-12-31,True
+RB-9570,Rob Beeghly,Consumer,2024-05-28,2024-12-31,True
+FM-4380,Fred McMath,Consumer,2024-05-28,2024-12-31,True
+AG-300,Aleksandra Gannaway,Corporate,2024-05-28,2024-12-31,True
+SW-10350,Sean Wendt,Home Office,2024-05-28,2024-12-31,True
+JR-6210,Justin Ritter,Corporate,2024-05-28,2024-12-31,True
+MD-7350,Maribeth Dona,Consumer,2024-05-28,2024-12-31,True
+ML-7755,Max Ludwig,Home Office,2024-05-28,2024-12-31,True
+HA-4920,Helen Andreada,Consumer,2024-05-28,2024-12-31,True
+AS-45,Aaron Smayling,Corporate,2024-05-28,2024-12-31,True
+BF-1215,Benjamin Farhat,Home Office,2024-05-28,2024-12-31,True
+LH-6900,Lena Hernandez,Consumer,2024-05-28,2024-12-31,True
+DP-3390,Dennis Pardue,Home Office,2024-05-28,2024-12-31,True
+DH-3075,Dave Hallsten,Corporate,2024-05-28,2024-12-31,True
+HM-4860,Harry Marie,Corporate,2024-05-28,2024-12-31,True
+SB-10185,Sarah Brown,Consumer,2024-05-28,2024-12-31,True
+RF-9840,Roy Französisch,Consumer,2024-05-28,2024-12-31,True
+SV-10935,Susan Vittorini,Consumer,2024-05-28,2024-12-31,True
+CS-2355,Christine Sundaresam,Consumer,2024-05-28,2024-12-31,True
+GM-4695,Greg Maxwell,Corporate,2024-05-28,2024-12-31,True
+AT-435,Alyssa Tate,Home Office,2024-05-28,2024-12-31,True
+MC-8130,Mike Caudle,Corporate,2024-05-28,2024-12-31,True
+FP-4320,Frank Preis,Consumer,2024-05-28,2024-12-31,True
+DK-3225,Dean Katz,Corporate,2024-05-28,2024-12-31,True
+VG-11790,Vivek Gonzalez,Consumer,2024-05-28,2024-12-31,True
+LF-7185,Luke Foster,Consumer,2024-05-28,2024-12-31,True
+NC-8535,Nick Crebassa,Corporate,2024-05-28,2024-12-31,True
+DB-3405,Denny Blanton,Consumer,2024-05-28,2024-12-31,True
+MH-8115,Mick Hernandez,Home Office,2024-05-28,2024-12-31,True
+SA-10830,Sue Ann Reed,Consumer,2024-05-28,2024-12-31,True
+JK-5640,Jim Kriz,Home Office,2024-05-28,2024-12-31,True
+VF-11715,Vicky Freymann,Home Office,2024-05-28,2024-12-31,True
+VW-11775,Victoria Wilson,Corporate,2024-05-28,2024-12-31,True
+SN-10710,Steve Nguyen,Home Office,2024-05-28,2024-12-31,True
+MS-7980,Michael Stewart,Corporate,2024-05-28,2024-12-31,True
+AD-180,Alan Dominguez,Home Office,2024-05-28,2024-12-31,True
+MC-8100,Mick Crebagga,Consumer,2024-05-28,2024-12-31,True
+JB-5925,Joni Blumstein,Consumer,2024-05-28,2024-12-31,True
+JC-5340,Jasper Cacioppo,Consumer,2024-05-28,2024-12-31,True
+MF-7665,Maureen Fritzler,Corporate,2024-05-28,2024-12-31,True
+RP-9270,Rachel Payne,Corporate,2024-05-28,2024-12-31,True
+PF-9120,Peter Fuller,Consumer,2024-05-28,2024-12-31,True
+DK-2895,Dana Kaydos,Consumer,2024-05-28,2024-12-31,True
+RW-9630,Rob Williams,Corporate,2024-05-28,2024-12-31,True
+TM-11490,Tony Molinari,Consumer,2024-05-28,2024-12-31,True
+Co-2640,Corey-Lock,Consumer,2024-05-28,2024-12-31,True
+EM-3810,Eleni McCrary,Corporate,2024-05-28,2024-12-31,True
+JK-6090,Juliana Krohn,Consumer,2024-05-28,2024-12-31,True
+JH-5430,Jennifer Halladay,Consumer,2024-05-28,2024-12-31,True
+AR-405,Allen Rosenblatt,Corporate,2024-05-28,2024-12-31,True
+TZ-11580,Tracy Zic,Consumer,2024-05-28,2024-12-31,True
+BG-1035,Barry Gonzalez,Consumer,2024-05-28,2024-12-31,True
+PS-9045,Penelope Sewall,Home Office,2024-05-28,2024-12-31,True
+MS-7770,Maxwell Schwartz,Consumer,2024-05-28,2024-12-31,True
+SS-10875,Sung Shariari,Consumer,2024-05-28,2024-12-31,True
+DB-2970,Darren Budd,Corporate,2024-05-28,2024-12-31,True
+SS-10515,Shirley Schmidt,Home Office,2024-05-28,2024-12-31,True
+AW-930,Arthur Wiediger,Home Office,2024-05-28,2024-12-31,True
+PK-8910,Paul Knutson,Home Office,2024-05-28,2024-12-31,True
+GM-4440,Gary McGarr,Consumer,2024-05-28,2024-12-31,True
+CY-2745,Craig Yedwab,Corporate,2024-05-28,2024-12-31,True
+RW-9690,Robert Waldorf,Consumer,2024-05-28,2024-12-31,True
+CC-2100,Chad Cunningham,Home Office,2024-05-28,2024-12-31,True
+KD-6345,Katherine Ducich,Consumer,2024-05-28,2024-12-31,True
+KN-6390,Katherine Nockton,Corporate,2024-05-28,2024-12-31,True
+GT-4710,Greg Tran,Consumer,2024-05-28,2024-12-31,True
+TS-11085,Thais Sissman,Consumer,2024-05-28,2024-12-31,True
+RR-9525,Rick Reed,Corporate,2024-05-28,2024-12-31,True
+MT-7815,Meg Tillman,Consumer,2024-05-28,2024-12-31,True
+JA-5970,Joseph Airdo,Consumer,2024-05-28,2024-12-31,True
+CB-2535,Claudia Bergmann,Corporate,2024-05-28,2024-12-31,True
+AP-720,Anne Pryor,Home Office,2024-05-28,2024-12-31,True
+SP-10860,Sung Pak,Corporate,2024-05-28,2024-12-31,True
+IL-5100,Ivan Liston,Consumer,2024-05-28,2024-12-31,True
+VD-11670,Valerie Dominguez,Consumer,2024-05-28,2024-12-31,True
+EH-3765,Edward Hooks,Corporate,2024-05-28,2024-12-31,True
+BS-1755,Bruce Stewart,Consumer,2024-05-28,2024-12-31,True
+HL-5040,Hunter Lopez,Consumer,2024-05-28,2024-12-31,True
+CA-2310,Christine Abelman,Corporate,2024-05-28,2024-12-31,True
+AC-420,Alyssa Crouse,Corporate,2024-05-28,2024-12-31,True
+CC-2145,Charles Crestani,Consumer,2024-05-28,2024-12-31,True
+KB-6585,Ken Black,Corporate,2024-05-28,2024-12-31,True
+JG-5115,Jack Garza,Consumer,2024-05-28,2024-12-31,True
+GK-4620,Grace Kelly,Corporate,2024-05-28,2024-12-31,True
+FW-4395,Fred Wasserman,Corporate,2024-05-28,2024-12-31,True
+VM-11685,Valerie Mitchum,Home Office,2024-05-28,2024-12-31,True
+RB-9360,Raymond Buch,Consumer,2024-05-28,2024-12-31,True
+AG-495,Andrew Gjertsen,Corporate,2024-05-28,2024-12-31,True
+IM-5070,Irene Maddox,Consumer,2024-05-28,2024-12-31,True
+MC-7635,Matthew Clasen,Corporate,2024-05-28,2024-12-31,True
+SH-10635,Stefanie Holloman,Corporate,2024-05-28,2024-12-31,True
+KC-6540,Kelly Collister,Consumer,2024-05-28,2024-12-31,True
+QJ-9255,Quincy Jones,Corporate,2024-05-28,2024-12-31,True
+JK-5325,Jason Klamczynski,Corporate,2024-05-28,2024-12-31,True
+AI-855,Arianne Irving,Consumer,2024-05-28,2024-12-31,True
+SC-10095,Sanjit Chand,Consumer,2024-05-28,2024-12-31,True
+CT-1995,Carol Triggs,Consumer,2024-05-28,2024-12-31,True
+PJ-8835,Patrick Jones,Corporate,2024-05-28,2024-12-31,True
+JM-6195,Justin MacKendrick,Consumer,2024-05-28,2024-12-31,True
+CV-2295,Christina VanderZanden,Consumer,2024-05-28,2024-12-31,True
+DB-3120,David Bremer,Corporate,2024-05-28,2024-12-31,True
+NL-8310,Nancy Lomonaco,Home Office,2024-05-28,2024-12-31,True
+BB-1545,Brenda Bowman,Corporate,2024-05-28,2024-12-31,True
+BV-1245,Benjamin Venier,Corporate,2024-05-28,2024-12-31,True
+BS-1380,Bill Stewart,Corporate,2024-05-28,2024-12-31,True
+KA-6525,Kelly Andreada,Consumer,2024-05-28,2024-12-31,True
+RB-9795,Ross Baird,Home Office,2024-05-28,2024-12-31,True
+EP-3915,Emily Phan,Consumer,2024-05-28,2024-12-31,True
+JS-5595,Jill Stevenson,Corporate,2024-05-28,2024-12-31,True
+JE-5610,Jim Epp,Corporate,2024-05-28,2024-12-31,True
+CJ-1875,Carl Jackson,Corporate,2024-05-28,2024-12-31,True
+TH-11550,Tracy Hopkins,Home Office,2024-05-28,2024-12-31,True
+HR-4830,Harold Ryan,Corporate,2024-05-28,2024-12-31,True
+KC-6675,Kimberly Carter,Corporate,2024-05-28,2024-12-31,True
+LS-7200,Luke Schmidt,Corporate,2024-05-28,2024-12-31,True
+DL-2925,Daniel Lacy,Consumer,2024-05-28,2024-12-31,True
+WB-11850,William Brown,Consumer,2024-05-28,2024-12-31,True
+SJ-10500,Shirley Jackson,Consumer,2024-05-28,2024-12-31,True
+DF-3135,David Flashing,Consumer,2024-05-28,2024-12-31,True
+SZ-10035,Sam Zeldin,Home Office,2024-05-28,2024-12-31,True
+CK-2205,Chloris Kastensmidt,Consumer,2024-05-28,2024-12-31,True
+TM-11010,Tamara Manning,Consumer,2024-05-28,2024-12-31,True
+FC-4335,Fred Chung,Corporate,2024-05-28,2024-12-31,True
+GB-4530,George Bell,Corporate,2024-05-28,2024-12-31,True
+BF-1275,Beth Fritzler,Corporate,2024-05-28,2024-12-31,True
+NB-8655,Nona Balk,Corporate,2024-05-28,2024-12-31,True
+EH-3990,Erica Hackney,Consumer,2024-05-28,2024-12-31,True
+SP-10545,Sibella Parks,Corporate,2024-05-28,2024-12-31,True
+Dp-3240,Dean percer,Home Office,2024-05-28,2024-12-31,True
+LW-6825,Laurel Workman,Corporate,2024-05-28,2024-12-31,True
+EN-3780,Edward Nazzal,Consumer,2024-05-28,2024-12-31,True
+TZ-11445,Tom Zandusky,Corporate,2024-05-28,2024-12-31,True
+KD-6615,Ken Dana,Corporate,2024-05-28,2024-12-31,True
+LD-7005,Lisa DeCherney,Consumer,2024-05-28,2024-12-31,True
+CL-1890,Carl Ludwig,Consumer,2024-05-28,2024-12-31,True
+HG-4965,Henry Goldwyn,Corporate,2024-05-28,2024-12-31,True
+BO-1350,Bill Overfelt,Corporate,2024-05-28,2024-12-31,True
+YC-11895,Yoseph Carroll,Corporate,2024-05-28,2024-12-31,True
+JM-5535,Jessica Myrick,Consumer,2024-05-28,2024-12-31,True
+RA-9885,Ruben Ausman,Corporate,2024-05-28,2024-12-31,True
+KM-6660,Khloe Miller,Consumer,2024-05-28,2024-12-31,True
+DW-3585,Dorothy Wardle,Corporate,2024-05-28,2024-12-31,True
+TS-11655,Trudy Schmidt,Consumer,2024-05-28,2024-12-31,True
+RK-9300,Ralph Kennedy,Consumer,2024-05-28,2024-12-31,True
+SC-10020,Sam Craven,Consumer,2024-05-28,2024-12-31,True
+AG-390,Allen Goldenen,Consumer,2024-05-28,2024-12-31,True
+AT-735,Annie Thurman,Consumer,2024-05-28,2024-12-31,True
+JW-5955,Joni Wasserman,Consumer,2024-05-28,2024-12-31,True
+AF-885,Art Foster,Consumer,2024-05-28,2024-12-31,True
+KB-6405,Katrina Bavinger,Home Office,2024-05-28,2024-12-31,True
+BP-1290,Beth Paige,Consumer,2024-05-28,2024-12-31,True
+OT-8730,Olvera Toch,Consumer,2024-05-28,2024-12-31,True
+LS-6975,Lindsay Shagiari,Home Office,2024-05-28,2024-12-31,True
+GD-4590,Giulietta Dortch,Corporate,2024-05-28,2024-12-31,True
+MP-7965,Michael Paige,Corporate,2024-05-28,2024-12-31,True
+DS-3180,David Smith,Corporate,2024-05-28,2024-12-31,True
+ED-3885,Emily Ducich,Home Office,2024-05-28,2024-12-31,True
+NZ-8565,Nick Zandusky,Home Office,2024-05-28,2024-12-31,True
+JG-5805,John Grady,Corporate,2024-05-28,2024-12-31,True
+EB-3870,Emily Burns,Consumer,2024-05-28,2024-12-31,True
+BG-1695,Brooke Gillingham,Corporate,2024-05-28,2024-12-31,True
+SR-10425,Sharelle Roach,Home Office,2024-05-28,2024-12-31,True
+AS-90,Adam Shillingsburg,Consumer,2024-05-28,2024-12-31,True
+SP-10620,Stefania Perrino,Corporate,2024-05-28,2024-12-31,True
+SH-10395,Shahid Hopkins,Consumer,2024-05-28,2024-12-31,True
+AR-540,Andy Reiter,Consumer,2024-05-28,2024-12-31,True
+CM-2235,Chris McAfee,Consumer,2024-05-28,2024-12-31,True
+AS-225,Alan Schoenberger,Corporate,2024-05-28,2024-12-31,True
+RA-9915,Russell Applegate,Consumer,2024-05-28,2024-12-31,True
+RS-9420,Ricardo Sperren,Corporate,2024-05-28,2024-12-31,True
+TN-11040,Tanja Norvell,Home Office,2024-05-28,2024-12-31,True
+VP-11730,Victor Preis,Home Office,2024-05-28,2024-12-31,True
+KW-6435,Katrina Willman,Consumer,2024-05-28,2024-12-31,True
+PP-8955,Paul Prost,Home Office,2024-05-28,2024-12-31,True
+SC-10575,Sonia Cooley,Consumer,2024-05-28,2024-12-31,True
+ML-7410,Maris LaWare,Consumer,2024-05-28,2024-12-31,True
+CJ-2010,Caroline Jumper,Consumer,2024-05-28,2024-12-31,True
+FG-4260,Frank Gastineau,Home Office,2024-05-28,2024-12-31,True
+TW-11025,Tamara Willingham,Home Office,2024-05-28,2024-12-31,True
+DB-3210,Dean Braden,Consumer,2024-05-28,2024-12-31,True
+EA-4035,Erin Ashbrook,Corporate,2024-05-28,2024-12-31,True
+EM-3825,Elizabeth Moffitt,Corporate,2024-05-28,2024-12-31,True
+TB-11355,Todd Boyes,Corporate,2024-05-28,2024-12-31,True
+ME-8010,Michelle Ellison,Corporate,2024-05-28,2024-12-31,True
+JE-5715,Joe Elijah,Consumer,2024-05-28,2024-12-31,True
+MC-7605,Matt Connell,Corporate,2024-05-28,2024-12-31,True
+FH-4350,Fred Harton,Consumer,2024-05-28,2024-12-31,True
+BC-1125,Becky Castell,Home Office,2024-05-28,2024-12-31,True
+MG-7875,Michael Grace,Home Office,2024-05-28,2024-12-31,True
+FH-4275,Frank Hawley,Corporate,2024-05-28,2024-12-31,True
+DK-2985,Darren Koutras,Consumer,2024-05-28,2024-12-31,True
+BK-1260,Berenike Kampe,Consumer,2024-05-28,2024-12-31,True
+MP-7470,Mark Packer,Home Office,2024-05-28,2024-12-31,True
+SC-10800,Stuart Calhoun,Consumer,2024-05-28,2024-12-31,True
+BD-1500,Bradley Drucker,Consumer,2024-05-28,2024-12-31,True
+RC-9825,Roy Collins,Consumer,2024-05-28,2024-12-31,True
+MG-7890,Michael Granlund,Home Office,2024-05-28,2024-12-31,True
+ZC-11910,Zuschuss Carroll,Consumer,2024-05-28,2024-12-31,True

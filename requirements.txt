@@ -1,0 +1,8 @@
+apache-airflow==2.9.1
+pandas==1.5.3
+psycopg2==2.9.7
+psycopg2_binary==2.9.9
+python-dotenv==1.0.1
+Requests==2.32.2
+openpyxl
+pipx==1.2.0

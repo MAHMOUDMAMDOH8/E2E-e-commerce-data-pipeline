@@ -1,0 +1,46 @@
+[2024-05-28T20:49:19.124+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-28T20:49:19.146+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sales_pipeline.database_preparation manual__2024-05-28T20:49:17.745214+00:00 [queued]>
+[2024-05-28T20:49:19.155+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sales_pipeline.database_preparation manual__2024-05-28T20:49:17.745214+00:00 [queued]>
+[2024-05-28T20:49:19.155+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-05-28T20:49:19.172+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): database_preparation> on 2024-05-28 20:49:17.745214+00:00
+[2024-05-28T20:49:19.181+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=228) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-05-28T20:49:19.182+0000] {standard_task_runner.py:63} INFO - Started process 230 to run task
+[2024-05-28T20:49:19.183+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'sales_pipeline', 'database_preparation', 'manual__2024-05-28T20:49:17.745214+00:00', '--job-id', '61', '--raw', '--subdir', 'DAGS_FOLDER/sales_data_pipeline.py', '--cfg-path', '/tmp/tmpvwvokm22']
+[2024-05-28T20:49:19.185+0000] {standard_task_runner.py:91} INFO - Job 61: Subtask database_preparation
+[2024-05-28T20:49:19.195+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/settings.py:195: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2024-05-28T20:49:19.223+0000] {task_command.py:426} INFO - Running <TaskInstance: sales_pipeline.database_preparation manual__2024-05-28T20:49:17.745214+00:00 [running]> on host 90e12a9d37bb
+[2024-05-28T20:49:19.306+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Mahmoud Mamdoh' AIRFLOW_CTX_DAG_ID='sales_pipeline' AIRFLOW_CTX_TASK_ID='database_preparation' AIRFLOW_CTX_EXECUTION_DATE='2024-05-28T20:49:17.745214+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-28T20:49:17.745214+00:00'
+[2024-05-28T20:49:19.307+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-28T20:49:19.318+0000] {sales_data_pipeline.py:36} INFO - database_preparation started
+[2024-05-28T20:49:19.319+0000] {tables_creation.py:27} INFO - Dropping tables...
+[2024-05-28T20:49:19.322+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T20:49:19.324+0000] {db_utils.py:46} INFO - Query executed successfully for table CUSTOMER
+[2024-05-28T20:49:19.324+0000] {tables_creation.py:39} INFO - Table CUSTOMER dropped successfully
+[2024-05-28T20:49:19.327+0000] {db_utils.py:46} INFO - Query executed successfully for table PRODUCT
+[2024-05-28T20:49:19.327+0000] {tables_creation.py:39} INFO - Table PRODUCT dropped successfully
+[2024-05-28T20:49:19.328+0000] {db_utils.py:46} INFO - Query executed successfully for table STORE
+[2024-05-28T20:49:19.329+0000] {tables_creation.py:39} INFO - Table STORE dropped successfully
+[2024-05-28T20:49:19.332+0000] {db_utils.py:46} INFO - Query executed successfully for table FACTSALES
+[2024-05-28T20:49:19.332+0000] {tables_creation.py:39} INFO - Table FACTSALES dropped successfully
+[2024-05-28T20:49:19.333+0000] {db_utils.py:39} INFO - PostgreSQL connection is closed
+[2024-05-28T20:49:19.333+0000] {tables_creation.py:8} INFO - create tables ..... 
+[2024-05-28T20:49:19.336+0000] {db_utils.py:30} INFO - Connected to PostgreSQL database successfully
+[2024-05-28T20:49:19.343+0000] {db_utils.py:46} INFO - Query executed successfully for table CUSTOMER
+[2024-05-28T20:49:19.343+0000] {tables_creation.py:20} INFO - Table CUSTOMER created successfully
+[2024-05-28T20:49:19.348+0000] {db_utils.py:46} INFO - Query executed successfully for table PRODUCT
+[2024-05-28T20:49:19.349+0000] {tables_creation.py:20} INFO - Table PRODUCT created successfully
+[2024-05-28T20:49:19.352+0000] {db_utils.py:46} INFO - Query executed successfully for table STORE
+[2024-05-28T20:49:19.352+0000] {tables_creation.py:20} INFO - Table STORE created successfully
+[2024-05-28T20:49:19.358+0000] {db_utils.py:46} INFO - Query executed successfully for table FACTSALES
+[2024-05-28T20:49:19.358+0000] {tables_creation.py:20} INFO - Table FACTSALES created successfully
+[2024-05-28T20:49:19.359+0000] {sales_data_pipeline.py:39} INFO - database_preparation done
+[2024-05-28T20:49:19.359+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-28T20:49:19.359+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-28T20:49:19.369+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=sales_pipeline, task_id=database_preparation, run_id=manual__2024-05-28T20:49:17.745214+00:00, execution_date=20240528T204917, start_date=20240528T204919, end_date=20240528T204919
+[2024-05-28T20:49:19.396+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-28T20:49:19.421+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-05-28T20:49:19.423+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
