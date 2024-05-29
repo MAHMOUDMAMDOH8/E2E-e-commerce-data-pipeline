@@ -62,6 +62,13 @@ The transformed data is stored in a relational database with a star schema desig
   
 ![data_model](https://github.com/MAHMOUDMAMDOH8/E2E-e-commerce-data-pipeline/assets/111503676/fc4acd78-51ee-4611-a3c3-ff986004b513)
 
+## Reporting layer
+
+
+![summary](https://github.com/MAHMOUDMAMDOH8/E2E-e-commerce-data-pipeline/assets/111503676/7b1b29df-ac8a-47e8-9ce2-33c01f68c1b1)
+
+![Orders detals](https://github.com/MAHMOUDMAMDOH8/E2E-e-commerce-data-pipeline/assets/111503676/519a7fd9-6c3a-40e4-b533-5e8c179c7416)
+
 
 
 
