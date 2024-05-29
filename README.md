@@ -18,9 +18,8 @@ This architecture incrementally and progressively improves the structure and qua
 
 ### Assumptions
 - The ecommerce data is assumed to be clean and does not require extensive cleaning or preprocessing.
-- Weather data from the OpenWeatherMap API is assumed to be accurate and reliable.
 - The database schema follows a star schema design for efficient querying and analysis.
-- SCD Type 2 logic is applied to track historical changes in user and product data for analytical purposes.
+- SCD Type 2 logic is applied to track historical changes in customers and product data for analytical purposes.
 
 ### Step 1: Data Collection and Storage
 We have  one Data Sources:
