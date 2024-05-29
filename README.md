@@ -10,7 +10,7 @@ The aim is to enable analysis and derive insights into customer behaviour and sa
 - [Reporting](#reporting-layer)
 
 ## Introduction
-The goal of this project is to build an end-to-end data pipeline for e-commerce data, integrating external weather data, transforming it, and storing it in a data warehouse. Throughout the planning process, various approaches were considered to tackle emerging challenges. 
+The goal of this project is to build an end-to-end data pipeline for e-commerce data, transforming it, and storing it in a data warehouse. Throughout the planning process, various approaches were considered to tackle emerging challenges. 
 Initially, a straightforward ETL job was considered, but the project was made more challenging and modern by adopting the Medallion architecture. 
 This architecture incrementally and progressively improves the structure and quality of data as it flows through each layer (from Bronze ⇒ Silver ⇒ Gold).
 
