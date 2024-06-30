@@ -4,6 +4,18 @@ The pipeline should combine generated sales data with data from external sources
 transformations and aggregations, and store the final dataset in a database. 
 The aim is to enable analysis and derive insights into customer behaviour and sales performance.
 
+# Tech Stack & Tools
+
+Infrastructure: Docker
+
+Data Warehouse: PostgreSQL
+
+Database: PostgreSQL
+
+Orchestration: Apache Airflow
+
+Serving Layer: PowerBI
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Database Schema](#database-schema)
